@@ -1,0 +1,1245 @@
+INFO:root:Tue Dec 13 12:35:12 2022, epoch 0
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 0, train loss: 6.1559
+valid metrics projection head: {'AMI': 0.08159337163109594, 'NMI': 0.38601886433184096, 'mean_average_precision': 0.320820726172466, 'mean_average_precision_at_r': 0.320820726172466, 'precision_at_1': 0.320820726172466, 'r_precision': 0.320820726172466}
+valid metric encoder: {'AMI': 0.0805079666845, 'NMI': 0.3861577373284761, 'mean_average_precision': 0.3803895612708018, 'mean_average_precision_at_r': 0.3803895612708018, 'precision_at_1': 0.3803895612708018, 'r_precision': 0.3803895612708018}
+INFO:root:precision_at_1 increased (0.000000 --> 0.320821).  Saving model ...
+INFO:root:Tue Dec 13 12:41:38 2022, epoch 1
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 1, train loss: 5.1986
+valid metrics projection head: {'AMI': 0.10176653485803591, 'NMI': 0.40102234346676524, 'mean_average_precision': 0.38748108925869895, 'mean_average_precision_at_r': 0.38748108925869895, 'precision_at_1': 0.38748108925869895, 'r_precision': 0.38748108925869895}
+valid metric encoder: {'AMI': 0.09480639699605738, 'NMI': 0.3956927455386096, 'mean_average_precision': 0.4184947049924357, 'mean_average_precision_at_r': 0.4184947049924357, 'precision_at_1': 0.4184947049924357, 'r_precision': 0.4184947049924357}
+INFO:root:precision_at_1 increased (0.320821 --> 0.387481).  Saving model ...
+INFO:root:Tue Dec 13 12:48:02 2022, epoch 2
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 2, train loss: 4.9286
+valid metrics projection head: {'AMI': 0.1168133164937802, 'NMI': 0.41108731391309433, 'mean_average_precision': 0.40799924357034795, 'mean_average_precision_at_r': 0.40799924357034795, 'precision_at_1': 0.40799924357034795, 'r_precision': 0.40799924357034795}
+valid metric encoder: {'AMI': 0.10320434480024786, 'NMI': 0.40149923541749527, 'mean_average_precision': 0.4401475037821483, 'mean_average_precision_at_r': 0.4401475037821483, 'precision_at_1': 0.4401475037821483, 'r_precision': 0.4401475037821483}
+INFO:root:precision_at_1 increased (0.387481 --> 0.407999).  Saving model ...
+INFO:root:Tue Dec 13 12:54:26 2022, epoch 3
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 3, train loss: 4.7351
+valid metrics projection head: {'AMI': 0.12370532659491382, 'NMI': 0.41453247867375764, 'mean_average_precision': 0.41310514372163387, 'mean_average_precision_at_r': 0.41310514372163387, 'precision_at_1': 0.41310514372163387, 'r_precision': 0.41310514372163387}
+valid metric encoder: {'AMI': 0.10663052884545686, 'NMI': 0.40373519047413714, 'mean_average_precision': 0.4493192133131619, 'mean_average_precision_at_r': 0.4493192133131619, 'precision_at_1': 0.4493192133131619, 'r_precision': 0.4493192133131619}
+INFO:root:precision_at_1 increased (0.407999 --> 0.413105).  Saving model ...
+INFO:root:Tue Dec 13 13:00:50 2022, epoch 4
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 4, train loss: 4.6333
+valid metrics projection head: {'AMI': 0.136757142212192, 'NMI': 0.4235994001702614, 'mean_average_precision': 0.44809001512859303, 'mean_average_precision_at_r': 0.44809001512859303, 'precision_at_1': 0.44809001512859303, 'r_precision': 0.44809001512859303}
+valid metric encoder: {'AMI': 0.11942530604844664, 'NMI': 0.41243639131848653, 'mean_average_precision': 0.465393343419062, 'mean_average_precision_at_r': 0.465393343419062, 'precision_at_1': 0.465393343419062, 'r_precision': 0.465393343419062}
+INFO:root:precision_at_1 increased (0.413105 --> 0.448090).  Saving model ...
+INFO:root:Tue Dec 13 13:07:14 2022, epoch 5
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 5, train loss: 4.5203
+valid metrics projection head: {'AMI': 0.14024106033048322, 'NMI': 0.4258394759587106, 'mean_average_precision': 0.44241679273827533, 'mean_average_precision_at_r': 0.44241679273827533, 'precision_at_1': 0.44241679273827533, 'r_precision': 0.44241679273827533}
+valid metric encoder: {'AMI': 0.12207721133161802, 'NMI': 0.4136817699581804, 'mean_average_precision': 0.4627458396369138, 'mean_average_precision_at_r': 0.4627458396369138, 'precision_at_1': 0.4627458396369138, 'r_precision': 0.4627458396369138}
+INFO:root:Tue Dec 13 13:13:38 2022, epoch 6
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 6, train loss: 4.4440
+valid metrics projection head: {'AMI': 0.14406770285713558, 'NMI': 0.42875059169699936, 'mean_average_precision': 0.454803328290469, 'mean_average_precision_at_r': 0.454803328290469, 'precision_at_1': 0.454803328290469, 'r_precision': 0.454803328290469}
+valid metric encoder: {'AMI': 0.1256531058648825, 'NMI': 0.41712124790701793, 'mean_average_precision': 0.4754160363086233, 'mean_average_precision_at_r': 0.4754160363086233, 'precision_at_1': 0.4754160363086233, 'r_precision': 0.4754160363086233}
+INFO:root:precision_at_1 increased (0.448090 --> 0.454803).  Saving model ...
+INFO:root:Tue Dec 13 13:20:01 2022, epoch 7
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 7, train loss: 4.3647
+valid metrics projection head: {'AMI': 0.1516194771940447, 'NMI': 0.4331316837355617, 'mean_average_precision': 0.47655068078668683, 'mean_average_precision_at_r': 0.47655068078668683, 'precision_at_1': 0.47655068078668683, 'r_precision': 0.47655068078668683}
+valid metric encoder: {'AMI': 0.13662188377656498, 'NMI': 0.4229958631045798, 'mean_average_precision': 0.4881807866868381, 'mean_average_precision_at_r': 0.4881807866868381, 'precision_at_1': 0.4881807866868381, 'r_precision': 0.4881807866868381}
+INFO:root:precision_at_1 increased (0.454803 --> 0.476551).  Saving model ...
+INFO:root:Tue Dec 13 13:26:24 2022, epoch 8
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 8, train loss: 4.3950
+valid metrics projection head: {'AMI': 0.1659890700441548, 'NMI': 0.443152249198365, 'mean_average_precision': 0.48420953101361575, 'mean_average_precision_at_r': 0.48420953101361575, 'precision_at_1': 0.48420953101361575, 'r_precision': 0.48420953101361575}
+valid metric encoder: {'AMI': 0.13878852669232805, 'NMI': 0.4252152735503802, 'mean_average_precision': 0.49895990922844174, 'mean_average_precision_at_r': 0.49895990922844174, 'precision_at_1': 0.49895990922844174, 'r_precision': 0.49895990922844174}
+INFO:root:precision_at_1 increased (0.476551 --> 0.484210).  Saving model ...
+INFO:root:Tue Dec 13 13:32:48 2022, epoch 9
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 9, train loss: 4.2853
+valid metrics projection head: {'AMI': 0.17185020111805224, 'NMI': 0.44653772974597944, 'mean_average_precision': 0.48723524962178516, 'mean_average_precision_at_r': 0.48723524962178516, 'precision_at_1': 0.48723524962178516, 'r_precision': 0.48723524962178516}
+valid metric encoder: {'AMI': 0.14672463475651615, 'NMI': 0.430556135949662, 'mean_average_precision': 0.4982034795763994, 'mean_average_precision_at_r': 0.4982034795763994, 'precision_at_1': 0.4982034795763994, 'r_precision': 0.4982034795763994}
+INFO:root:precision_at_1 increased (0.484210 --> 0.487235).  Saving model ...
+INFO:root:Tue Dec 13 13:39:08 2022, epoch 10
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 10, train loss: 4.2319
+valid metrics projection head: {'AMI': 0.1749475941926331, 'NMI': 0.44838152982314916, 'mean_average_precision': 0.49527231467473526, 'mean_average_precision_at_r': 0.49527231467473526, 'precision_at_1': 0.49527231467473526, 'r_precision': 0.49527231467473526}
+valid metric encoder: {'AMI': 0.14333386690525501, 'NMI': 0.4281666054222091, 'mean_average_precision': 0.5039712556732224, 'mean_average_precision_at_r': 0.5039712556732224, 'precision_at_1': 0.5039712556732224, 'r_precision': 0.5039712556732224}
+INFO:root:precision_at_1 increased (0.487235 --> 0.495272).  Saving model ...
+INFO:root:Tue Dec 13 13:45:35 2022, epoch 11
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 11, train loss: 4.2402
+valid metrics projection head: {'AMI': 0.18057292978575923, 'NMI': 0.45218721616659213, 'mean_average_precision': 0.4962178517397882, 'mean_average_precision_at_r': 0.4962178517397882, 'precision_at_1': 0.4962178517397882, 'r_precision': 0.4962178517397882}
+valid metric encoder: {'AMI': 0.14885143075823884, 'NMI': 0.4319255972283339, 'mean_average_precision': 0.5035930408472012, 'mean_average_precision_at_r': 0.5035930408472012, 'precision_at_1': 0.5035930408472012, 'r_precision': 0.5035930408472012}
+INFO:root:precision_at_1 increased (0.495272 --> 0.496218).  Saving model ...
+INFO:root:Tue Dec 13 13:51:59 2022, epoch 12
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 12, train loss: 4.1672
+valid metrics projection head: {'AMI': 0.1826221329486772, 'NMI': 0.45381344500812404, 'mean_average_precision': 0.5017965204236006, 'mean_average_precision_at_r': 0.5017965204236006, 'precision_at_1': 0.5017965204236006, 'r_precision': 0.5017965204236006}
+valid metric encoder: {'AMI': 0.14739014218462634, 'NMI': 0.4309992924719587, 'mean_average_precision': 0.513142965204236, 'mean_average_precision_at_r': 0.513142965204236, 'precision_at_1': 0.513142965204236, 'r_precision': 0.513142965204236}
+INFO:root:precision_at_1 increased (0.496218 --> 0.501797).  Saving model ...
+INFO:root:Tue Dec 13 13:58:21 2022, epoch 13
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 13, train loss: 4.1345
+valid metrics projection head: {'AMI': 0.20853868534088996, 'NMI': 0.4714819061211096, 'mean_average_precision': 0.5322428139183056, 'mean_average_precision_at_r': 0.5322428139183056, 'precision_at_1': 0.5322428139183056, 'r_precision': 0.5322428139183056}
+valid metric encoder: {'AMI': 0.16633863282442193, 'NMI': 0.4431665073177104, 'mean_average_precision': 0.5351739788199698, 'mean_average_precision_at_r': 0.5351739788199698, 'precision_at_1': 0.5351739788199698, 'r_precision': 0.5351739788199698}
+INFO:root:precision_at_1 increased (0.501797 --> 0.532243).  Saving model ...
+INFO:root:Tue Dec 13 14:04:43 2022, epoch 14
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 14, train loss: 4.1175
+valid metrics projection head: {'AMI': 0.20248768007157156, 'NMI': 0.46725920931998527, 'mean_average_precision': 0.5266641452344932, 'mean_average_precision_at_r': 0.5266641452344932, 'precision_at_1': 0.5266641452344932, 'r_precision': 0.5266641452344932}
+valid metric encoder: {'AMI': 0.16523620097460348, 'NMI': 0.44286233345663284, 'mean_average_precision': 0.5307299546142209, 'mean_average_precision_at_r': 0.5307299546142209, 'precision_at_1': 0.5307299546142209, 'r_precision': 0.5307299546142209}
+INFO:root:Tue Dec 13 14:11:09 2022, epoch 15
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 15, train loss: 4.0872
+valid metrics projection head: {'AMI': 0.2239276690604366, 'NMI': 0.4814428478530618, 'mean_average_precision': 0.5490733736762481, 'mean_average_precision_at_r': 0.5490733736762481, 'precision_at_1': 0.5490733736762481, 'r_precision': 0.5490733736762481}
+valid metric encoder: {'AMI': 0.17359609623818043, 'NMI': 0.4482114910149438, 'mean_average_precision': 0.5501134644478064, 'mean_average_precision_at_r': 0.5501134644478064, 'precision_at_1': 0.5501134644478064, 'r_precision': 0.5501134644478064}
+INFO:root:precision_at_1 increased (0.532243 --> 0.549073).  Saving model ...
+INFO:root:Tue Dec 13 14:17:34 2022, epoch 16
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 16, train loss: 4.0766
+valid metrics projection head: {'AMI': 0.21517593463230447, 'NMI': 0.475883564893049, 'mean_average_precision': 0.5406580937972768, 'mean_average_precision_at_r': 0.5406580937972768, 'precision_at_1': 0.5406580937972768, 'r_precision': 0.5406580937972768}
+valid metric encoder: {'AMI': 0.16725107140622494, 'NMI': 0.44426306385269326, 'mean_average_precision': 0.5498298033282905, 'mean_average_precision_at_r': 0.5498298033282905, 'precision_at_1': 0.5498298033282905, 'r_precision': 0.5498298033282905}
+INFO:root:Tue Dec 13 14:24:00 2022, epoch 17
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 17, train loss: 4.0551
+valid metrics projection head: {'AMI': 0.23267485272473115, 'NMI': 0.48672140312953927, 'mean_average_precision': 0.5367813918305597, 'mean_average_precision_at_r': 0.5367813918305597, 'precision_at_1': 0.5367813918305597, 'r_precision': 0.5367813918305597}
+valid metric encoder: {'AMI': 0.17761657378507123, 'NMI': 0.4504047427483648, 'mean_average_precision': 0.5416981845688351, 'mean_average_precision_at_r': 0.5416981845688351, 'precision_at_1': 0.5416981845688351, 'r_precision': 0.5416981845688351}
+INFO:root:Tue Dec 13 14:30:24 2022, epoch 18
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 18, train loss: 3.9547
+valid metrics projection head: {'AMI': 0.22705209091211714, 'NMI': 0.483239145111399, 'mean_average_precision': 0.5315809379727685, 'mean_average_precision_at_r': 0.5315809379727685, 'precision_at_1': 0.5315809379727685, 'r_precision': 0.5315809379727685}
+valid metric encoder: {'AMI': 0.1740203342758545, 'NMI': 0.44923749584196815, 'mean_average_precision': 0.541981845688351, 'mean_average_precision_at_r': 0.541981845688351, 'precision_at_1': 0.541981845688351, 'r_precision': 0.541981845688351}
+INFO:root:Tue Dec 13 14:36:47 2022, epoch 19
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 19, train loss: 3.9804
+valid metrics projection head: {'AMI': 0.24336301224161927, 'NMI': 0.4938774056095669, 'mean_average_precision': 0.5426437216338881, 'mean_average_precision_at_r': 0.5426437216338881, 'precision_at_1': 0.5426437216338881, 'r_precision': 0.5426437216338881}
+valid metric encoder: {'AMI': 0.18333621522283416, 'NMI': 0.45514547108976205, 'mean_average_precision': 0.551626323751891, 'mean_average_precision_at_r': 0.551626323751891, 'precision_at_1': 0.551626323751891, 'r_precision': 0.551626323751891}
+INFO:root:Tue Dec 13 14:43:11 2022, epoch 20
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 20, train loss: 3.9443
+valid metrics projection head: {'AMI': 0.23584517546693168, 'NMI': 0.48963896833067566, 'mean_average_precision': 0.549357034795764, 'mean_average_precision_at_r': 0.549357034795764, 'precision_at_1': 0.549357034795764, 'r_precision': 0.549357034795764}
+valid metric encoder: {'AMI': 0.1815256554960675, 'NMI': 0.45344220986468503, 'mean_average_precision': 0.5561649016641452, 'mean_average_precision_at_r': 0.5561649016641452, 'precision_at_1': 0.5561649016641452, 'r_precision': 0.5561649016641452}
+INFO:root:precision_at_1 increased (0.549073 --> 0.549357).  Saving model ...
+INFO:root:Tue Dec 13 14:49:35 2022, epoch 21
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 21, train loss: 3.9093
+valid metrics projection head: {'AMI': 0.25585241314000706, 'NMI': 0.5013826748858179, 'mean_average_precision': 0.5632564296520424, 'mean_average_precision_at_r': 0.5632564296520424, 'precision_at_1': 0.5632564296520424, 'r_precision': 0.5632564296520424}
+valid metric encoder: {'AMI': 0.19339499017624423, 'NMI': 0.4611550504056961, 'mean_average_precision': 0.572428139183056, 'mean_average_precision_at_r': 0.572428139183056, 'precision_at_1': 0.572428139183056, 'r_precision': 0.572428139183056}
+INFO:root:precision_at_1 increased (0.549357 --> 0.563256).  Saving model ...
+INFO:root:Tue Dec 13 14:56:00 2022, epoch 22
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 22, train loss: 3.8789
+valid metrics projection head: {'AMI': 0.2567009437360865, 'NMI': 0.5013684830814334, 'mean_average_precision': 0.5558812405446294, 'mean_average_precision_at_r': 0.5558812405446294, 'precision_at_1': 0.5558812405446294, 'r_precision': 0.5558812405446294}
+valid metric encoder: {'AMI': 0.19219699779968302, 'NMI': 0.46044073354865395, 'mean_average_precision': 0.5512481089258698, 'mean_average_precision_at_r': 0.5512481089258698, 'precision_at_1': 0.5512481089258698, 'r_precision': 0.5512481089258698}
+INFO:root:Tue Dec 13 15:02:23 2022, epoch 23
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 23, train loss: 3.8608
+valid metrics projection head: {'AMI': 0.25745270616360344, 'NMI': 0.5028644169327111, 'mean_average_precision': 0.5537065052950075, 'mean_average_precision_at_r': 0.5537065052950075, 'precision_at_1': 0.5537065052950075, 'r_precision': 0.5537065052950075}
+valid metric encoder: {'AMI': 0.1869322016096136, 'NMI': 0.4578399121833448, 'mean_average_precision': 0.5665658093797277, 'mean_average_precision_at_r': 0.5665658093797277, 'precision_at_1': 0.5665658093797277, 'r_precision': 0.5665658093797277}
+INFO:root:Tue Dec 13 15:08:46 2022, epoch 24
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 24, train loss: 3.8613
+valid metrics projection head: {'AMI': 0.27193777901700766, 'NMI': 0.5120655255497131, 'mean_average_precision': 0.5759266263237519, 'mean_average_precision_at_r': 0.5759266263237519, 'precision_at_1': 0.5759266263237519, 'r_precision': 0.5759266263237519}
+valid metric encoder: {'AMI': 0.20305181442811618, 'NMI': 0.467851228180821, 'mean_average_precision': 0.580748865355522, 'mean_average_precision_at_r': 0.580748865355522, 'precision_at_1': 0.580748865355522, 'r_precision': 0.580748865355522}
+INFO:root:precision_at_1 increased (0.563256 --> 0.575927).  Saving model ...
+INFO:root:Tue Dec 13 15:15:11 2022, epoch 25
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 25, train loss: 3.8145
+valid metrics projection head: {'AMI': 0.26922473406218056, 'NMI': 0.5099840064738658, 'mean_average_precision': 0.5659039334341907, 'mean_average_precision_at_r': 0.5659039334341907, 'precision_at_1': 0.5659039334341907, 'r_precision': 0.5659039334341907}
+valid metric encoder: {'AMI': 0.2040068632455507, 'NMI': 0.4691494001368816, 'mean_average_precision': 0.5708207261724659, 'mean_average_precision_at_r': 0.5708207261724659, 'precision_at_1': 0.5708207261724659, 'r_precision': 0.5708207261724659}
+INFO:root:Tue Dec 13 15:21:35 2022, epoch 26
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 26, train loss: 3.7853
+valid metrics projection head: {'AMI': 0.2872049768894488, 'NMI': 0.5220762038547668, 'mean_average_precision': 0.5720499243570348, 'mean_average_precision_at_r': 0.5720499243570348, 'precision_at_1': 0.5720499243570348, 'r_precision': 0.5720499243570348}
+valid metric encoder: {'AMI': 0.21375994130747875, 'NMI': 0.47543635718290167, 'mean_average_precision': 0.5819780635400907, 'mean_average_precision_at_r': 0.5819780635400907, 'precision_at_1': 0.5819780635400907, 'r_precision': 0.5819780635400907}
+INFO:root:Tue Dec 13 15:28:00 2022, epoch 27
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 27, train loss: 3.7801
+valid metrics projection head: {'AMI': 0.2860736845766987, 'NMI': 0.5225735281959816, 'mean_average_precision': 0.580748865355522, 'mean_average_precision_at_r': 0.580748865355522, 'precision_at_1': 0.580748865355522, 'r_precision': 0.580748865355522}
+valid metric encoder: {'AMI': 0.21301460511681755, 'NMI': 0.47461581387519375, 'mean_average_precision': 0.5902042360060514, 'mean_average_precision_at_r': 0.5902042360060514, 'precision_at_1': 0.5902042360060514, 'r_precision': 0.5902042360060514}
+INFO:root:precision_at_1 increased (0.575927 --> 0.580749).  Saving model ...
+INFO:root:Tue Dec 13 15:34:25 2022, epoch 28
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 28, train loss: 3.7676
+valid metrics projection head: {'AMI': 0.2982424155852155, 'NMI': 0.5298797257348268, 'mean_average_precision': 0.5795196671709532, 'mean_average_precision_at_r': 0.5795196671709532, 'precision_at_1': 0.5795196671709532, 'r_precision': 0.5795196671709532}
+valid metric encoder: {'AMI': 0.20971146854655667, 'NMI': 0.47331426937072507, 'mean_average_precision': 0.5844364599092284, 'mean_average_precision_at_r': 0.5844364599092284, 'precision_at_1': 0.5844364599092284, 'r_precision': 0.5844364599092284}
+INFO:root:Tue Dec 13 15:40:51 2022, epoch 29
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 29, train loss: 3.7748
+valid metrics projection head: {'AMI': 0.3082898661465334, 'NMI': 0.5361907780009182, 'mean_average_precision': 0.5838691376701967, 'mean_average_precision_at_r': 0.5838691376701967, 'precision_at_1': 0.5838691376701967, 'r_precision': 0.5838691376701967}
+valid metric encoder: {'AMI': 0.2305984342767502, 'NMI': 0.4869103101427128, 'mean_average_precision': 0.5873676248108926, 'mean_average_precision_at_r': 0.5873676248108926, 'precision_at_1': 0.5873676248108926, 'r_precision': 0.5873676248108926}
+INFO:root:precision_at_1 increased (0.580749 --> 0.583869).  Saving model ...
+INFO:root:Tue Dec 13 15:47:14 2022, epoch 30
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 30, train loss: 3.7580
+valid metrics projection head: {'AMI': 0.30234282290413333, 'NMI': 0.5324337395954676, 'mean_average_precision': 0.5741301059001512, 'mean_average_precision_at_r': 0.5741301059001512, 'precision_at_1': 0.5741301059001512, 'r_precision': 0.5741301059001512}
+valid metric encoder: {'AMI': 0.22267514135240862, 'NMI': 0.4815897989935829, 'mean_average_precision': 0.5794251134644478, 'mean_average_precision_at_r': 0.5794251134644478, 'precision_at_1': 0.5794251134644478, 'r_precision': 0.5794251134644478}
+INFO:root:Tue Dec 13 15:53:38 2022, epoch 31
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 31, train loss: 3.7290
+valid metrics projection head: {'AMI': 0.313089325021947, 'NMI': 0.5392178324830599, 'mean_average_precision': 0.5870839636913767, 'mean_average_precision_at_r': 0.5870839636913767, 'precision_at_1': 0.5870839636913767, 'r_precision': 0.5870839636913767}
+valid metric encoder: {'AMI': 0.2357741136441417, 'NMI': 0.49013935922509316, 'mean_average_precision': 0.5953101361573374, 'mean_average_precision_at_r': 0.5953101361573374, 'precision_at_1': 0.5953101361573374, 'r_precision': 0.5953101361573374}
+INFO:root:precision_at_1 increased (0.583869 --> 0.587084).  Saving model ...
+INFO:root:Tue Dec 13 16:00:01 2022, epoch 32
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 32, train loss: 3.7333
+valid metrics projection head: {'AMI': 0.32817903628806094, 'NMI': 0.5494084857257785, 'mean_average_precision': 0.584625567322239, 'mean_average_precision_at_r': 0.584625567322239, 'precision_at_1': 0.584625567322239, 'r_precision': 0.584625567322239}
+valid metric encoder: {'AMI': 0.2367292487928175, 'NMI': 0.4908818753101303, 'mean_average_precision': 0.5893532526475038, 'mean_average_precision_at_r': 0.5893532526475038, 'precision_at_1': 0.5893532526475038, 'r_precision': 0.5893532526475038}
+INFO:root:Tue Dec 13 16:06:24 2022, epoch 33
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 33, train loss: 3.6763
+valid metrics projection head: {'AMI': 0.333028437608748, 'NMI': 0.5525261264595831, 'mean_average_precision': 0.5938918305597579, 'mean_average_precision_at_r': 0.5938918305597579, 'precision_at_1': 0.5938918305597579, 'r_precision': 0.5938918305597579}
+valid metric encoder: {'AMI': 0.23641993195434524, 'NMI': 0.4905661580834967, 'mean_average_precision': 0.6039145234493192, 'mean_average_precision_at_r': 0.6039145234493192, 'precision_at_1': 0.6039145234493192, 'r_precision': 0.6039145234493192}
+INFO:root:precision_at_1 increased (0.587084 --> 0.593892).  Saving model ...
+INFO:root:Tue Dec 13 16:12:46 2022, epoch 34
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 34, train loss: 3.6933
+valid metrics projection head: {'AMI': 0.32728427835443624, 'NMI': 0.5480822201274874, 'mean_average_precision': 0.5868003025718608, 'mean_average_precision_at_r': 0.5868003025718608, 'precision_at_1': 0.5868003025718608, 'r_precision': 0.5868003025718608}
+valid metric encoder: {'AMI': 0.2384152298152908, 'NMI': 0.4915164149596992, 'mean_average_precision': 0.6006051437216339, 'mean_average_precision_at_r': 0.6006051437216339, 'precision_at_1': 0.6006051437216339, 'r_precision': 0.6006051437216339}
+INFO:root:Tue Dec 13 16:19:10 2022, epoch 35
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 35, train loss: 3.6611
+valid metrics projection head: {'AMI': 0.34755275908963096, 'NMI': 0.5611894757723624, 'mean_average_precision': 0.5998487140695915, 'mean_average_precision_at_r': 0.5998487140695915, 'precision_at_1': 0.5998487140695915, 'r_precision': 0.5998487140695915}
+valid metric encoder: {'AMI': 0.24717877139564678, 'NMI': 0.49760433198308457, 'mean_average_precision': 0.6075075642965204, 'mean_average_precision_at_r': 0.6075075642965204, 'precision_at_1': 0.6075075642965204, 'r_precision': 0.6075075642965204}
+INFO:root:precision_at_1 increased (0.593892 --> 0.599849).  Saving model ...
+INFO:root:Tue Dec 13 16:25:33 2022, epoch 36
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 36, train loss: 3.6271
+valid metrics projection head: {'AMI': 0.3471303022540601, 'NMI': 0.5608524797854719, 'mean_average_precision': 0.597768532526475, 'mean_average_precision_at_r': 0.597768532526475, 'precision_at_1': 0.597768532526475, 'r_precision': 0.597768532526475}
+valid metric encoder: {'AMI': 0.2517383845755155, 'NMI': 0.5010161646629377, 'mean_average_precision': 0.6084531013615734, 'mean_average_precision_at_r': 0.6084531013615734, 'precision_at_1': 0.6084531013615734, 'r_precision': 0.6084531013615734}
+INFO:root:Tue Dec 13 16:31:56 2022, epoch 37
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 37, train loss: 3.6184
+valid metrics projection head: {'AMI': 0.3526659841492253, 'NMI': 0.5651839916501139, 'mean_average_precision': 0.6040090771558245, 'mean_average_precision_at_r': 0.6040090771558245, 'precision_at_1': 0.6040090771558245, 'r_precision': 0.6040090771558245}
+valid metric encoder: {'AMI': 0.2557290156765656, 'NMI': 0.5027252637128782, 'mean_average_precision': 0.6127080181543116, 'mean_average_precision_at_r': 0.6127080181543116, 'precision_at_1': 0.6127080181543116, 'r_precision': 0.6127080181543116}
+INFO:root:precision_at_1 increased (0.599849 --> 0.604009).  Saving model ...
+INFO:root:Tue Dec 13 16:38:22 2022, epoch 38
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 38, train loss: 3.6550
+valid metrics projection head: {'AMI': 0.3566640407052025, 'NMI': 0.5680228729579131, 'mean_average_precision': 0.6033472012102874, 'mean_average_precision_at_r': 0.6033472012102874, 'precision_at_1': 0.6033472012102874, 'r_precision': 0.6033472012102874}
+valid metric encoder: {'AMI': 0.2624654956799203, 'NMI': 0.5070506254155686, 'mean_average_precision': 0.6121406959152799, 'mean_average_precision_at_r': 0.6121406959152799, 'precision_at_1': 0.6121406959152799, 'r_precision': 0.6121406959152799}
+INFO:root:Tue Dec 13 16:44:46 2022, epoch 39
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 39, train loss: 3.5913
+valid metrics projection head: {'AMI': 0.3689986187930291, 'NMI': 0.5760402091170602, 'mean_average_precision': 0.6170574886535553, 'mean_average_precision_at_r': 0.6170574886535553, 'precision_at_1': 0.6170574886535553, 'r_precision': 0.6170574886535553}
+valid metric encoder: {'AMI': 0.2693005502654235, 'NMI': 0.5126442585156421, 'mean_average_precision': 0.6210287443267776, 'mean_average_precision_at_r': 0.6210287443267776, 'precision_at_1': 0.6210287443267776, 'r_precision': 0.6210287443267776}
+INFO:root:precision_at_1 increased (0.604009 --> 0.617057).  Saving model ...
+INFO:root:Tue Dec 13 16:51:12 2022, epoch 40
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 40, train loss: 3.5416
+valid metrics projection head: {'AMI': 0.36464522287330825, 'NMI': 0.5738134546459117, 'mean_average_precision': 0.5983358547655068, 'mean_average_precision_at_r': 0.5983358547655068, 'precision_at_1': 0.5983358547655068, 'r_precision': 0.5983358547655068}
+valid metric encoder: {'AMI': 0.2592049933267765, 'NMI': 0.5060006768716151, 'mean_average_precision': 0.6090204236006052, 'mean_average_precision_at_r': 0.6090204236006052, 'precision_at_1': 0.6090204236006052, 'r_precision': 0.6090204236006052}
+INFO:root:Tue Dec 13 16:57:40 2022, epoch 41
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 41, train loss: 3.5437
+valid metrics projection head: {'AMI': 0.36865331999626594, 'NMI': 0.5754833030215525, 'mean_average_precision': 0.6124243570347958, 'mean_average_precision_at_r': 0.6124243570347958, 'precision_at_1': 0.6124243570347958, 'r_precision': 0.6124243570347958}
+valid metric encoder: {'AMI': 0.2679173170430709, 'NMI': 0.5105646500710697, 'mean_average_precision': 0.6282148260211801, 'mean_average_precision_at_r': 0.6282148260211801, 'precision_at_1': 0.6282148260211801, 'r_precision': 0.6282148260211801}
+INFO:root:Tue Dec 13 17:04:05 2022, epoch 42
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 42, train loss: 3.5402
+valid metrics projection head: {'AMI': 0.384067093312876, 'NMI': 0.5852978149129109, 'mean_average_precision': 0.6235816944024206, 'mean_average_precision_at_r': 0.6235816944024206, 'precision_at_1': 0.6235816944024206, 'r_precision': 0.6235816944024206}
+valid metric encoder: {'AMI': 0.279034499443486, 'NMI': 0.5179959285682294, 'mean_average_precision': 0.6284984871406959, 'mean_average_precision_at_r': 0.6284984871406959, 'precision_at_1': 0.6284984871406959, 'r_precision': 0.6284984871406959}
+INFO:root:precision_at_1 increased (0.617057 --> 0.623582).  Saving model ...
+INFO:root:Tue Dec 13 17:10:31 2022, epoch 43
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 43, train loss: 3.5462
+valid metrics projection head: {'AMI': 0.3915921179317839, 'NMI': 0.5909673234603072, 'mean_average_precision': 0.6209341906202723, 'mean_average_precision_at_r': 0.6209341906202723, 'precision_at_1': 0.6209341906202723, 'r_precision': 0.6209341906202723}
+valid metric encoder: {'AMI': 0.2913377741487912, 'NMI': 0.5263945265036428, 'mean_average_precision': 0.6297276853252648, 'mean_average_precision_at_r': 0.6297276853252648, 'precision_at_1': 0.6297276853252648, 'r_precision': 0.6297276853252648}
+INFO:root:Tue Dec 13 17:16:55 2022, epoch 44
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 44, train loss: 3.5125
+valid metrics projection head: {'AMI': 0.39348818406669117, 'NMI': 0.5920261302549786, 'mean_average_precision': 0.6218797276853253, 'mean_average_precision_at_r': 0.6218797276853253, 'precision_at_1': 0.6218797276853253, 'r_precision': 0.6218797276853253}
+valid metric encoder: {'AMI': 0.2859589811048234, 'NMI': 0.523164361703027, 'mean_average_precision': 0.6418305597579426, 'mean_average_precision_at_r': 0.6418305597579426, 'precision_at_1': 0.6418305597579426, 'r_precision': 0.6418305597579426}
+INFO:root:Tue Dec 13 17:23:19 2022, epoch 45
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 45, train loss: 3.4851
+valid metrics projection head: {'AMI': 0.3950198503909685, 'NMI': 0.593215691083347, 'mean_average_precision': 0.6193267776096822, 'mean_average_precision_at_r': 0.6193267776096822, 'precision_at_1': 0.6193267776096822, 'r_precision': 0.6193267776096822}
+valid metric encoder: {'AMI': 0.2811060764222952, 'NMI': 0.5196093603925364, 'mean_average_precision': 0.6345499243570348, 'mean_average_precision_at_r': 0.6345499243570348, 'precision_at_1': 0.6345499243570348, 'r_precision': 0.6345499243570348}
+INFO:root:Tue Dec 13 17:29:45 2022, epoch 46
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 46, train loss: 3.5049
+valid metrics projection head: {'AMI': 0.40368060232028524, 'NMI': 0.5993011040707826, 'mean_average_precision': 0.6167738275340393, 'mean_average_precision_at_r': 0.6167738275340393, 'precision_at_1': 0.6167738275340393, 'r_precision': 0.6167738275340393}
+valid metric encoder: {'AMI': 0.2966686506648347, 'NMI': 0.5303871974868107, 'mean_average_precision': 0.6325642965204236, 'mean_average_precision_at_r': 0.6325642965204236, 'precision_at_1': 0.6325642965204236, 'r_precision': 0.6325642965204236}
+INFO:root:Tue Dec 13 17:36:11 2022, epoch 47
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 47, train loss: 3.4590
+valid metrics projection head: {'AMI': 0.4068485829353028, 'NMI': 0.6006436250191, 'mean_average_precision': 0.6241490166414524, 'mean_average_precision_at_r': 0.6241490166414524, 'precision_at_1': 0.6241490166414524, 'r_precision': 0.6241490166414524}
+valid metric encoder: {'AMI': 0.2861509979820299, 'NMI': 0.5229020318092719, 'mean_average_precision': 0.6290658093797277, 'mean_average_precision_at_r': 0.6290658093797277, 'precision_at_1': 0.6290658093797277, 'r_precision': 0.6290658093797277}
+INFO:root:precision_at_1 increased (0.623582 --> 0.624149).  Saving model ...
+INFO:root:Tue Dec 13 17:42:32 2022, epoch 48
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 48, train loss: 3.4618
+valid metrics projection head: {'AMI': 0.41451952509495155, 'NMI': 0.6063318372773565, 'mean_average_precision': 0.6236762481089259, 'mean_average_precision_at_r': 0.6236762481089259, 'precision_at_1': 0.6236762481089259, 'r_precision': 0.6236762481089259}
+valid metric encoder: {'AMI': 0.2911863297507769, 'NMI': 0.5256169969630942, 'mean_average_precision': 0.635590015128593, 'mean_average_precision_at_r': 0.635590015128593, 'precision_at_1': 0.635590015128593, 'r_precision': 0.635590015128593}
+INFO:root:Tue Dec 13 17:48:57 2022, epoch 49
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 49, train loss: 3.4248
+valid metrics projection head: {'AMI': 0.4230277847680324, 'NMI': 0.6116405061794664, 'mean_average_precision': 0.6342662632375189, 'mean_average_precision_at_r': 0.6342662632375189, 'precision_at_1': 0.6342662632375189, 'r_precision': 0.6342662632375189}
+valid metric encoder: {'AMI': 0.30498072970885043, 'NMI': 0.5356126317335888, 'mean_average_precision': 0.6489220877458396, 'mean_average_precision_at_r': 0.6489220877458396, 'precision_at_1': 0.6489220877458396, 'r_precision': 0.6489220877458396}
+INFO:root:precision_at_1 increased (0.624149 --> 0.634266).  Saving model ...
+INFO:root:Tue Dec 13 17:55:24 2022, epoch 50
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 50, train loss: 3.4206
+valid metrics projection head: {'AMI': 0.4285046930876945, 'NMI': 0.615533402854218, 'mean_average_precision': 0.6363464447806354, 'mean_average_precision_at_r': 0.6363464447806354, 'precision_at_1': 0.6363464447806354, 'r_precision': 0.6363464447806354}
+valid metric encoder: {'AMI': 0.31111547578423876, 'NMI': 0.5389369181432732, 'mean_average_precision': 0.6428706505295008, 'mean_average_precision_at_r': 0.6428706505295008, 'precision_at_1': 0.6428706505295008, 'r_precision': 0.6428706505295008}
+INFO:root:precision_at_1 increased (0.634266 --> 0.636346).  Saving model ...
+INFO:root:Tue Dec 13 18:01:47 2022, epoch 51
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 51, train loss: 3.4492
+valid metrics projection head: {'AMI': 0.4360303052916488, 'NMI': 0.6200309882537043, 'mean_average_precision': 0.6331316187594553, 'mean_average_precision_at_r': 0.6331316187594553, 'precision_at_1': 0.6331316187594553, 'r_precision': 0.6331316187594553}
+valid metric encoder: {'AMI': 0.3099322751031429, 'NMI': 0.5386787700067228, 'mean_average_precision': 0.647409228441755, 'mean_average_precision_at_r': 0.647409228441755, 'precision_at_1': 0.647409228441755, 'r_precision': 0.647409228441755}
+INFO:root:Tue Dec 13 18:08:13 2022, epoch 52
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 52, train loss: 3.3937
+valid metrics projection head: {'AMI': 0.44481653994724846, 'NMI': 0.626322853573451, 'mean_average_precision': 0.6461800302571861, 'mean_average_precision_at_r': 0.6461800302571861, 'precision_at_1': 0.6461800302571861, 'r_precision': 0.6461800302571861}
+valid metric encoder: {'AMI': 0.31984490865677995, 'NMI': 0.5457049810834349, 'mean_average_precision': 0.653838880484115, 'mean_average_precision_at_r': 0.653838880484115, 'precision_at_1': 0.653838880484115, 'r_precision': 0.653838880484115}
+INFO:root:precision_at_1 increased (0.636346 --> 0.646180).  Saving model ...
+INFO:root:Tue Dec 13 18:14:36 2022, epoch 53
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 53, train loss: 3.3783
+valid metrics projection head: {'AMI': 0.44597590148745353, 'NMI': 0.6265214778084452, 'mean_average_precision': 0.6386157337367625, 'mean_average_precision_at_r': 0.6386157337367625, 'precision_at_1': 0.6386157337367625, 'r_precision': 0.6386157337367625}
+valid metric encoder: {'AMI': 0.31087474883838356, 'NMI': 0.5399317433104296, 'mean_average_precision': 0.642303328290469, 'mean_average_precision_at_r': 0.642303328290469, 'precision_at_1': 0.642303328290469, 'r_precision': 0.642303328290469}
+INFO:root:Tue Dec 13 18:21:00 2022, epoch 54
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 54, train loss: 3.3767
+valid metrics projection head: {'AMI': 0.44906228984549634, 'NMI': 0.6291157749931015, 'mean_average_precision': 0.6451399394856279, 'mean_average_precision_at_r': 0.6451399394856279, 'precision_at_1': 0.6451399394856279, 'r_precision': 0.6451399394856279}
+valid metric encoder: {'AMI': 0.32448440162379344, 'NMI': 0.5476088745615671, 'mean_average_precision': 0.6555408472012103, 'mean_average_precision_at_r': 0.6555408472012103, 'precision_at_1': 0.6555408472012103, 'r_precision': 0.6555408472012103}
+INFO:root:Tue Dec 13 18:27:25 2022, epoch 55
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 55, train loss: 3.3674
+valid metrics projection head: {'AMI': 0.45011068628125933, 'NMI': 0.6302493697705368, 'mean_average_precision': 0.6440052950075643, 'mean_average_precision_at_r': 0.6440052950075643, 'precision_at_1': 0.6440052950075643, 'r_precision': 0.6440052950075643}
+valid metric encoder: {'AMI': 0.32470822672959504, 'NMI': 0.5483882151873997, 'mean_average_precision': 0.6534606656580938, 'mean_average_precision_at_r': 0.6534606656580938, 'precision_at_1': 0.6534606656580938, 'r_precision': 0.6534606656580938}
+INFO:root:Tue Dec 13 18:33:49 2022, epoch 56
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 56, train loss: 3.3068
+valid metrics projection head: {'AMI': 0.45580825791712426, 'NMI': 0.6336799354052005, 'mean_average_precision': 0.6469364599092284, 'mean_average_precision_at_r': 0.6469364599092284, 'precision_at_1': 0.6469364599092284, 'r_precision': 0.6469364599092284}
+valid metric encoder: {'AMI': 0.32563568461022663, 'NMI': 0.5487229216996532, 'mean_average_precision': 0.6630105900151286, 'mean_average_precision_at_r': 0.6630105900151286, 'precision_at_1': 0.6630105900151286, 'r_precision': 0.6630105900151286}
+INFO:root:precision_at_1 increased (0.646180 --> 0.646936).  Saving model ...
+INFO:root:Tue Dec 13 18:40:13 2022, epoch 57
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 57, train loss: 3.3739
+valid metrics projection head: {'AMI': 0.4660379354249981, 'NMI': 0.6404238762139639, 'mean_average_precision': 0.6472201210287444, 'mean_average_precision_at_r': 0.6472201210287444, 'precision_at_1': 0.6472201210287444, 'r_precision': 0.6472201210287444}
+valid metric encoder: {'AMI': 0.34105563149065893, 'NMI': 0.5589291733296882, 'mean_average_precision': 0.649678517397882, 'mean_average_precision_at_r': 0.649678517397882, 'precision_at_1': 0.649678517397882, 'r_precision': 0.649678517397882}
+INFO:root:precision_at_1 increased (0.646936 --> 0.647220).  Saving model ...
+INFO:root:Tue Dec 13 18:46:38 2022, epoch 58
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 58, train loss: 3.3427
+valid metrics projection head: {'AMI': 0.46888752845551634, 'NMI': 0.641186062810138, 'mean_average_precision': 0.6472201210287444, 'mean_average_precision_at_r': 0.6472201210287444, 'precision_at_1': 0.6472201210287444, 'r_precision': 0.6472201210287444}
+valid metric encoder: {'AMI': 0.3271136885137885, 'NMI': 0.5505804312753334, 'mean_average_precision': 0.6532715582450832, 'mean_average_precision_at_r': 0.6532715582450832, 'precision_at_1': 0.6532715582450832, 'r_precision': 0.6532715582450832}
+INFO:root:Tue Dec 13 18:53:03 2022, epoch 59
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 59, train loss: 3.3230
+valid metrics projection head: {'AMI': 0.4804222842858508, 'NMI': 0.6491178378290979, 'mean_average_precision': 0.6462745839636914, 'mean_average_precision_at_r': 0.6462745839636914, 'precision_at_1': 0.6462745839636914, 'r_precision': 0.6462745839636914}
+valid metric encoder: {'AMI': 0.341433741603265, 'NMI': 0.5602509079253989, 'mean_average_precision': 0.6658472012102874, 'mean_average_precision_at_r': 0.6658472012102874, 'precision_at_1': 0.6658472012102874, 'r_precision': 0.6658472012102874}
+INFO:root:Tue Dec 13 18:59:26 2022, epoch 60
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 60, train loss: 3.2735
+valid metrics projection head: {'AMI': 0.4793663747058981, 'NMI': 0.6492274777305264, 'mean_average_precision': 0.6594175491679274, 'mean_average_precision_at_r': 0.6594175491679274, 'precision_at_1': 0.6594175491679274, 'r_precision': 0.6594175491679274}
+valid metric encoder: {'AMI': 0.3535962061961495, 'NMI': 0.5677104269832131, 'mean_average_precision': 0.6696293494704992, 'mean_average_precision_at_r': 0.6696293494704992, 'precision_at_1': 0.6696293494704992, 'r_precision': 0.6696293494704992}
+INFO:root:precision_at_1 increased (0.647220 --> 0.659418).  Saving model ...
+INFO:root:Tue Dec 13 19:05:50 2022, epoch 61
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 61, train loss: 3.3029
+valid metrics projection head: {'AMI': 0.4884339494332837, 'NMI': 0.6554008565824191, 'mean_average_precision': 0.6588502269288956, 'mean_average_precision_at_r': 0.6588502269288956, 'precision_at_1': 0.6588502269288956, 'r_precision': 0.6588502269288956}
+valid metric encoder: {'AMI': 0.34586332597838326, 'NMI': 0.5627147758339486, 'mean_average_precision': 0.669251134644478, 'mean_average_precision_at_r': 0.669251134644478, 'precision_at_1': 0.669251134644478, 'r_precision': 0.669251134644478}
+INFO:root:Tue Dec 13 19:12:11 2022, epoch 62
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 62, train loss: 3.2807
+valid metrics projection head: {'AMI': 0.4899646217968376, 'NMI': 0.6552450193581698, 'mean_average_precision': 0.6524205748865356, 'mean_average_precision_at_r': 0.6524205748865356, 'precision_at_1': 0.6524205748865356, 'r_precision': 0.6524205748865356}
+valid metric encoder: {'AMI': 0.35104748705048633, 'NMI': 0.5665780916015983, 'mean_average_precision': 0.665090771558245, 'mean_average_precision_at_r': 0.665090771558245, 'precision_at_1': 0.665090771558245, 'r_precision': 0.665090771558245}
+INFO:root:Tue Dec 13 19:18:36 2022, epoch 63
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 63, train loss: 3.2805
+valid metrics projection head: {'AMI': 0.4947505638934991, 'NMI': 0.6600267463552169, 'mean_average_precision': 0.6638615733736762, 'mean_average_precision_at_r': 0.6638615733736762, 'precision_at_1': 0.6638615733736762, 'r_precision': 0.6638615733736762}
+valid metric encoder: {'AMI': 0.35613475722098814, 'NMI': 0.5695569549190226, 'mean_average_precision': 0.6679273827534039, 'mean_average_precision_at_r': 0.6679273827534039, 'precision_at_1': 0.6679273827534039, 'r_precision': 0.6679273827534039}
+INFO:root:precision_at_1 increased (0.659418 --> 0.663862).  Saving model ...
+INFO:root:Tue Dec 13 19:25:00 2022, epoch 64
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 64, train loss: 3.2577
+valid metrics projection head: {'AMI': 0.49131910402568707, 'NMI': 0.6571849966014767, 'mean_average_precision': 0.6626323751891074, 'mean_average_precision_at_r': 0.6626323751891074, 'precision_at_1': 0.6626323751891074, 'r_precision': 0.6626323751891074}
+valid metric encoder: {'AMI': 0.3568924448297107, 'NMI': 0.5704695425876878, 'mean_average_precision': 0.6693456883509834, 'mean_average_precision_at_r': 0.6693456883509834, 'precision_at_1': 0.6693456883509834, 'r_precision': 0.6693456883509834}
+INFO:root:Tue Dec 13 19:31:24 2022, epoch 65
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 65, train loss: 3.2305
+valid metrics projection head: {'AMI': 0.5053651086269514, 'NMI': 0.6662928345350647, 'mean_average_precision': 0.6624432677760969, 'mean_average_precision_at_r': 0.6624432677760969, 'precision_at_1': 0.6624432677760969, 'r_precision': 0.6624432677760969}
+valid metric encoder: {'AMI': 0.36329011941359357, 'NMI': 0.5743069111737854, 'mean_average_precision': 0.6789901664145235, 'mean_average_precision_at_r': 0.6789901664145235, 'precision_at_1': 0.6789901664145235, 'r_precision': 0.6789901664145235}
+INFO:root:Tue Dec 13 19:37:47 2022, epoch 66
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 66, train loss: 3.2339
+valid metrics projection head: {'AMI': 0.5131214789427758, 'NMI': 0.6716891296086794, 'mean_average_precision': 0.6670763993948563, 'mean_average_precision_at_r': 0.6670763993948563, 'precision_at_1': 0.6670763993948563, 'r_precision': 0.6670763993948563}
+valid metric encoder: {'AMI': 0.3734568031195151, 'NMI': 0.5811383287787493, 'mean_average_precision': 0.6767208774583964, 'mean_average_precision_at_r': 0.6767208774583964, 'precision_at_1': 0.6767208774583964, 'r_precision': 0.6767208774583964}
+INFO:root:precision_at_1 increased (0.663862 --> 0.667076).  Saving model ...
+INFO:root:Tue Dec 13 19:44:11 2022, epoch 67
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 67, train loss: 3.2178
+valid metrics projection head: {'AMI': 0.5107518163405113, 'NMI': 0.6700060981372261, 'mean_average_precision': 0.6678328290468987, 'mean_average_precision_at_r': 0.6678328290468987, 'precision_at_1': 0.6678328290468987, 'r_precision': 0.6678328290468987}
+valid metric encoder: {'AMI': 0.3702331106705457, 'NMI': 0.5789237000960638, 'mean_average_precision': 0.6722768532526475, 'mean_average_precision_at_r': 0.6722768532526475, 'precision_at_1': 0.6722768532526475, 'r_precision': 0.6722768532526475}
+INFO:root:precision_at_1 increased (0.667076 --> 0.667833).  Saving model ...
+INFO:root:Tue Dec 13 19:50:37 2022, epoch 68
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 68, train loss: 3.2342
+valid metrics projection head: {'AMI': 0.5162078039615812, 'NMI': 0.6732693059418281, 'mean_average_precision': 0.6699130105900152, 'mean_average_precision_at_r': 0.6699130105900152, 'precision_at_1': 0.6699130105900152, 'r_precision': 0.6699130105900152}
+valid metric encoder: {'AMI': 0.38153222747094306, 'NMI': 0.5861955537589445, 'mean_average_precision': 0.6822995461422088, 'mean_average_precision_at_r': 0.6822995461422088, 'precision_at_1': 0.6822995461422088, 'r_precision': 0.6822995461422088}
+INFO:root:precision_at_1 increased (0.667833 --> 0.669913).  Saving model ...
+INFO:root:Tue Dec 13 19:57:01 2022, epoch 69
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 69, train loss: 3.2004
+valid metrics projection head: {'AMI': 0.5170447266956909, 'NMI': 0.6745300653799434, 'mean_average_precision': 0.6691565809379728, 'mean_average_precision_at_r': 0.6691565809379728, 'precision_at_1': 0.6691565809379728, 'r_precision': 0.6691565809379728}
+valid metric encoder: {'AMI': 0.37912255517435756, 'NMI': 0.5844171017057798, 'mean_average_precision': 0.683339636913767, 'mean_average_precision_at_r': 0.683339636913767, 'precision_at_1': 0.683339636913767, 'r_precision': 0.683339636913767}
+INFO:root:Tue Dec 13 20:03:24 2022, epoch 70
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 70, train loss: 3.1984
+valid metrics projection head: {'AMI': 0.5168941115176657, 'NMI': 0.6740464230474285, 'mean_average_precision': 0.6697239031770046, 'mean_average_precision_at_r': 0.6697239031770046, 'precision_at_1': 0.6697239031770046, 'r_precision': 0.6697239031770046}
+valid metric encoder: {'AMI': 0.38366446402126225, 'NMI': 0.5871527665629548, 'mean_average_precision': 0.6837178517397882, 'mean_average_precision_at_r': 0.6837178517397882, 'precision_at_1': 0.6837178517397882, 'r_precision': 0.6837178517397882}
+INFO:root:Tue Dec 13 20:09:46 2022, epoch 71
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 71, train loss: 3.1842
+valid metrics projection head: {'AMI': 0.5259255432942074, 'NMI': 0.6799830829770415, 'mean_average_precision': 0.6731278366111951, 'mean_average_precision_at_r': 0.6731278366111951, 'precision_at_1': 0.6731278366111951, 'r_precision': 0.6731278366111951}
+valid metric encoder: {'AMI': 0.3896827381210286, 'NMI': 0.5917107383975048, 'mean_average_precision': 0.6876891074130106, 'mean_average_precision_at_r': 0.6876891074130106, 'precision_at_1': 0.6876891074130106, 'r_precision': 0.6876891074130106}
+INFO:root:precision_at_1 increased (0.669913 --> 0.673128).  Saving model ...
+INFO:root:Tue Dec 13 20:16:09 2022, epoch 72
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 72, train loss: 3.2111
+valid metrics projection head: {'AMI': 0.5251357313158461, 'NMI': 0.6797703701020309, 'mean_average_precision': 0.6785173978819969, 'mean_average_precision_at_r': 0.6785173978819969, 'precision_at_1': 0.6785173978819969, 'r_precision': 0.6785173978819969}
+valid metric encoder: {'AMI': 0.39322883543629117, 'NMI': 0.5936259080703181, 'mean_average_precision': 0.6864599092284418, 'mean_average_precision_at_r': 0.6864599092284418, 'precision_at_1': 0.6864599092284418, 'r_precision': 0.6864599092284418}
+INFO:root:precision_at_1 increased (0.673128 --> 0.678517).  Saving model ...
+INFO:root:Tue Dec 13 20:22:33 2022, epoch 73
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 73, train loss: 3.1751
+valid metrics projection head: {'AMI': 0.5313776774964433, 'NMI': 0.6843569296099468, 'mean_average_precision': 0.6746406959152799, 'mean_average_precision_at_r': 0.6746406959152799, 'precision_at_1': 0.6746406959152799, 'r_precision': 0.6746406959152799}
+valid metric encoder: {'AMI': 0.39717640162284334, 'NMI': 0.5965549677093323, 'mean_average_precision': 0.6893910741301059, 'mean_average_precision_at_r': 0.6893910741301059, 'precision_at_1': 0.6893910741301059, 'r_precision': 0.6893910741301059}
+INFO:root:Tue Dec 13 20:28:57 2022, epoch 74
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 74, train loss: 3.1498
+valid metrics projection head: {'AMI': 0.537373475370634, 'NMI': 0.6873813119203438, 'mean_average_precision': 0.6748298033282905, 'mean_average_precision_at_r': 0.6748298033282905, 'precision_at_1': 0.6748298033282905, 'r_precision': 0.6748298033282905}
+valid metric encoder: {'AMI': 0.39623123272080146, 'NMI': 0.5960012849554117, 'mean_average_precision': 0.6864599092284418, 'mean_average_precision_at_r': 0.6864599092284418, 'precision_at_1': 0.6864599092284418, 'r_precision': 0.6864599092284418}
+INFO:root:Tue Dec 13 20:35:22 2022, epoch 75
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 75, train loss: 3.1686
+valid metrics projection head: {'AMI': 0.5301995680946664, 'NMI': 0.6836334179935304, 'mean_average_precision': 0.6678328290468987, 'mean_average_precision_at_r': 0.6678328290468987, 'precision_at_1': 0.6678328290468987, 'r_precision': 0.6678328290468987}
+valid metric encoder: {'AMI': 0.3989739911221464, 'NMI': 0.5979990093561713, 'mean_average_precision': 0.6829614220877458, 'mean_average_precision_at_r': 0.6829614220877458, 'precision_at_1': 0.6829614220877458, 'r_precision': 0.6829614220877458}
+INFO:root:Tue Dec 13 20:41:46 2022, epoch 76
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 76, train loss: 3.1455
+valid metrics projection head: {'AMI': 0.5406113493360902, 'NMI': 0.6901777054528678, 'mean_average_precision': 0.6788956127080181, 'mean_average_precision_at_r': 0.6788956127080181, 'precision_at_1': 0.6788956127080181, 'r_precision': 0.6788956127080181}
+valid metric encoder: {'AMI': 0.4004132996516563, 'NMI': 0.5985401861723548, 'mean_average_precision': 0.6887291981845688, 'mean_average_precision_at_r': 0.6887291981845688, 'precision_at_1': 0.6887291981845688, 'r_precision': 0.6887291981845688}
+INFO:root:precision_at_1 increased (0.678517 --> 0.678896).  Saving model ...
+INFO:root:Tue Dec 13 20:48:10 2022, epoch 77
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 77, train loss: 3.1180
+valid metrics projection head: {'AMI': 0.5389637605277044, 'NMI': 0.6888608695600957, 'mean_average_precision': 0.6780446293494705, 'mean_average_precision_at_r': 0.6780446293494705, 'precision_at_1': 0.6780446293494705, 'r_precision': 0.6780446293494705}
+valid metric encoder: {'AMI': 0.40480277343632737, 'NMI': 0.6017369840012599, 'mean_average_precision': 0.6914712556732224, 'mean_average_precision_at_r': 0.6914712556732224, 'precision_at_1': 0.6914712556732224, 'r_precision': 0.6914712556732224}
+INFO:root:Tue Dec 13 20:54:32 2022, epoch 78
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 78, train loss: 3.1046
+valid metrics projection head: {'AMI': 0.5333735178769773, 'NMI': 0.6854910697923131, 'mean_average_precision': 0.6688729198184569, 'mean_average_precision_at_r': 0.6688729198184569, 'precision_at_1': 0.6688729198184569, 'r_precision': 0.6688729198184569}
+valid metric encoder: {'AMI': 0.39147408493623265, 'NMI': 0.5935238303133898, 'mean_average_precision': 0.6780446293494705, 'mean_average_precision_at_r': 0.6780446293494705, 'precision_at_1': 0.6780446293494705, 'r_precision': 0.6780446293494705}
+INFO:root:Tue Dec 13 21:00:57 2022, epoch 79
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 79, train loss: 3.0965
+valid metrics projection head: {'AMI': 0.5523678764060039, 'NMI': 0.697738673849972, 'mean_average_precision': 0.6893910741301059, 'mean_average_precision_at_r': 0.6893910741301059, 'precision_at_1': 0.6893910741301059, 'r_precision': 0.6893910741301059}
+valid metric encoder: {'AMI': 0.41688880964343333, 'NMI': 0.6101838069768878, 'mean_average_precision': 0.6905257186081695, 'mean_average_precision_at_r': 0.6905257186081695, 'precision_at_1': 0.6905257186081695, 'r_precision': 0.6905257186081695}
+INFO:root:precision_at_1 increased (0.678896 --> 0.689391).  Saving model ...
+INFO:root:Tue Dec 13 21:07:21 2022, epoch 80
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 80, train loss: 3.0745
+valid metrics projection head: {'AMI': 0.5487430304990785, 'NMI': 0.6956688262377407, 'mean_average_precision': 0.6861762481089259, 'mean_average_precision_at_r': 0.6861762481089259, 'precision_at_1': 0.6861762481089259, 'r_precision': 0.6861762481089259}
+valid metric encoder: {'AMI': 0.4147702677386876, 'NMI': 0.6083041489323151, 'mean_average_precision': 0.6936459909228442, 'mean_average_precision_at_r': 0.6936459909228442, 'precision_at_1': 0.6936459909228442, 'r_precision': 0.6936459909228442}
+INFO:root:Tue Dec 13 21:13:45 2022, epoch 81
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 81, train loss: 3.0941
+valid metrics projection head: {'AMI': 0.5593313239445071, 'NMI': 0.7022945616908702, 'mean_average_precision': 0.6890128593040847, 'mean_average_precision_at_r': 0.6890128593040847, 'precision_at_1': 0.6890128593040847, 'r_precision': 0.6890128593040847}
+valid metric encoder: {'AMI': 0.42162934429151494, 'NMI': 0.613377607928117, 'mean_average_precision': 0.6937405446293494, 'mean_average_precision_at_r': 0.6937405446293494, 'precision_at_1': 0.6937405446293494, 'r_precision': 0.6937405446293494}
+INFO:root:Tue Dec 13 21:20:09 2022, epoch 82
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 82, train loss: 3.0949
+valid metrics projection head: {'AMI': 0.5562879519259094, 'NMI': 0.700419420792862, 'mean_average_precision': 0.6825832072617246, 'mean_average_precision_at_r': 0.6825832072617246, 'precision_at_1': 0.6825832072617246, 'r_precision': 0.6825832072617246}
+valid metric encoder: {'AMI': 0.41965040735703113, 'NMI': 0.6117327303259592, 'mean_average_precision': 0.6994137670196672, 'mean_average_precision_at_r': 0.6994137670196672, 'precision_at_1': 0.6994137670196672, 'r_precision': 0.6994137670196672}
+INFO:root:Tue Dec 13 21:26:31 2022, epoch 83
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 83, train loss: 3.0857
+valid metrics projection head: {'AMI': 0.5530704158846521, 'NMI': 0.6985676134260811, 'mean_average_precision': 0.68267776096823, 'mean_average_precision_at_r': 0.68267776096823, 'precision_at_1': 0.68267776096823, 'r_precision': 0.68267776096823}
+valid metric encoder: {'AMI': 0.4183503126328263, 'NMI': 0.6110147868284717, 'mean_average_precision': 0.6915658093797277, 'mean_average_precision_at_r': 0.6915658093797277, 'precision_at_1': 0.6915658093797277, 'r_precision': 0.6915658093797277}
+INFO:root:Tue Dec 13 21:32:56 2022, epoch 84
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 84, train loss: 3.0719
+valid metrics projection head: {'AMI': 0.5579812004576917, 'NMI': 0.7009644397613609, 'mean_average_precision': 0.6902420574886535, 'mean_average_precision_at_r': 0.6902420574886535, 'precision_at_1': 0.6902420574886535, 'r_precision': 0.6902420574886535}
+valid metric encoder: {'AMI': 0.41360683394013864, 'NMI': 0.6081388019967979, 'mean_average_precision': 0.6966717095310136, 'mean_average_precision_at_r': 0.6966717095310136, 'precision_at_1': 0.6966717095310136, 'r_precision': 0.6966717095310136}
+INFO:root:precision_at_1 increased (0.689391 --> 0.690242).  Saving model ...
+INFO:root:Tue Dec 13 21:39:17 2022, epoch 85
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 85, train loss: 3.0553
+valid metrics projection head: {'AMI': 0.5621788922369928, 'NMI': 0.7045257934501354, 'mean_average_precision': 0.6890128593040847, 'mean_average_precision_at_r': 0.6890128593040847, 'precision_at_1': 0.6890128593040847, 'r_precision': 0.6890128593040847}
+valid metric encoder: {'AMI': 0.4284421098128297, 'NMI': 0.6174479785417828, 'mean_average_precision': 0.6987518910741302, 'mean_average_precision_at_r': 0.6987518910741302, 'precision_at_1': 0.6987518910741302, 'r_precision': 0.6987518910741302}
+INFO:root:Tue Dec 13 21:45:40 2022, epoch 86
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 86, train loss: 3.0313
+valid metrics projection head: {'AMI': 0.5535283425837192, 'NMI': 0.6988187887825172, 'mean_average_precision': 0.682394099848714, 'mean_average_precision_at_r': 0.682394099848714, 'precision_at_1': 0.682394099848714, 'r_precision': 0.682394099848714}
+valid metric encoder: {'AMI': 0.4102946271750201, 'NMI': 0.6054818866596223, 'mean_average_precision': 0.6918494704992436, 'mean_average_precision_at_r': 0.6918494704992436, 'precision_at_1': 0.6918494704992436, 'r_precision': 0.6918494704992436}
+INFO:root:Tue Dec 13 21:52:05 2022, epoch 87
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 87, train loss: 3.0524
+valid metrics projection head: {'AMI': 0.5597867066504792, 'NMI': 0.7030649219203362, 'mean_average_precision': 0.6871217851739788, 'mean_average_precision_at_r': 0.6871217851739788, 'precision_at_1': 0.6871217851739788, 'r_precision': 0.6871217851739788}
+valid metric encoder: {'AMI': 0.4249763877862069, 'NMI': 0.6156881187393685, 'mean_average_precision': 0.7002647503782148, 'mean_average_precision_at_r': 0.7002647503782148, 'precision_at_1': 0.7002647503782148, 'r_precision': 0.7002647503782148}
+INFO:root:Tue Dec 13 21:58:27 2022, epoch 88
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 88, train loss: 3.0528
+valid metrics projection head: {'AMI': 0.5672565557117472, 'NMI': 0.7079160148909285, 'mean_average_precision': 0.6938350983358548, 'mean_average_precision_at_r': 0.6938350983358548, 'precision_at_1': 0.6938350983358548, 'r_precision': 0.6938350983358548}
+valid metric encoder: {'AMI': 0.4374569554972962, 'NMI': 0.6236977189732547, 'mean_average_precision': 0.7043305597579426, 'mean_average_precision_at_r': 0.7043305597579426, 'precision_at_1': 0.7043305597579426, 'r_precision': 0.7043305597579426}
+INFO:root:precision_at_1 increased (0.690242 --> 0.693835).  Saving model ...
+INFO:root:Tue Dec 13 22:04:52 2022, epoch 89
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 89, train loss: 3.0312
+valid metrics projection head: {'AMI': 0.5724095993411412, 'NMI': 0.7110333260597808, 'mean_average_precision': 0.6924167927382754, 'mean_average_precision_at_r': 0.6924167927382754, 'precision_at_1': 0.6924167927382754, 'r_precision': 0.6924167927382754}
+valid metric encoder: {'AMI': 0.43609460549052503, 'NMI': 0.6226924102183189, 'mean_average_precision': 0.706410741301059, 'mean_average_precision_at_r': 0.706410741301059, 'precision_at_1': 0.706410741301059, 'r_precision': 0.706410741301059}
+INFO:root:Tue Dec 13 22:11:18 2022, epoch 90
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 90, train loss: 3.0618
+valid metrics projection head: {'AMI': 0.5719597464795169, 'NMI': 0.711154504768119, 'mean_average_precision': 0.6920385779122542, 'mean_average_precision_at_r': 0.6920385779122542, 'precision_at_1': 0.6920385779122542, 'r_precision': 0.6920385779122542}
+valid metric encoder: {'AMI': 0.4446888374991818, 'NMI': 0.6283092615808228, 'mean_average_precision': 0.7014939485627837, 'mean_average_precision_at_r': 0.7014939485627837, 'precision_at_1': 0.7014939485627837, 'r_precision': 0.7014939485627837}
+INFO:root:Tue Dec 13 22:17:42 2022, epoch 91
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 91, train loss: 3.0206
+valid metrics projection head: {'AMI': 0.5726962136786953, 'NMI': 0.7108056820897559, 'mean_average_precision': 0.6933623298033282, 'mean_average_precision_at_r': 0.6933623298033282, 'precision_at_1': 0.6933623298033282, 'r_precision': 0.6933623298033282}
+valid metric encoder: {'AMI': 0.4380353361603635, 'NMI': 0.6238082406478267, 'mean_average_precision': 0.7074508320726173, 'mean_average_precision_at_r': 0.7074508320726173, 'precision_at_1': 0.7074508320726173, 'r_precision': 0.7074508320726173}
+INFO:root:Tue Dec 13 22:24:09 2022, epoch 92
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 92, train loss: 3.0235
+valid metrics projection head: {'AMI': 0.5713864476626346, 'NMI': 0.7114477606213466, 'mean_average_precision': 0.6945915279878971, 'mean_average_precision_at_r': 0.6945915279878971, 'precision_at_1': 0.6945915279878971, 'r_precision': 0.6945915279878971}
+valid metric encoder: {'AMI': 0.4410053762426241, 'NMI': 0.6266907165600193, 'mean_average_precision': 0.7047087745839636, 'mean_average_precision_at_r': 0.7047087745839636, 'precision_at_1': 0.7047087745839636, 'r_precision': 0.7047087745839636}
+INFO:root:precision_at_1 increased (0.693835 --> 0.694592).  Saving model ...
+INFO:root:Tue Dec 13 22:30:32 2022, epoch 93
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 93, train loss: 3.0081
+valid metrics projection head: {'AMI': 0.5769611492107848, 'NMI': 0.7142883148038649, 'mean_average_precision': 0.6925113464447806, 'mean_average_precision_at_r': 0.6925113464447806, 'precision_at_1': 0.6925113464447806, 'r_precision': 0.6925113464447806}
+valid metric encoder: {'AMI': 0.4443790004367541, 'NMI': 0.627599135404877, 'mean_average_precision': 0.7063161875945537, 'mean_average_precision_at_r': 0.7063161875945537, 'precision_at_1': 0.7063161875945537, 'r_precision': 0.7063161875945537}
+INFO:root:Tue Dec 13 22:36:55 2022, epoch 94
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 94, train loss: 3.0243
+valid metrics projection head: {'AMI': 0.5744519270509725, 'NMI': 0.7124103148189979, 'mean_average_precision': 0.6930786686838124, 'mean_average_precision_at_r': 0.6930786686838124, 'precision_at_1': 0.6930786686838124, 'r_precision': 0.6930786686838124}
+valid metric encoder: {'AMI': 0.45033034692583296, 'NMI': 0.6323917273459762, 'mean_average_precision': 0.7079236006051437, 'mean_average_precision_at_r': 0.7079236006051437, 'precision_at_1': 0.7079236006051437, 'r_precision': 0.7079236006051437}
+INFO:root:Tue Dec 13 22:43:17 2022, epoch 95
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 95, train loss: 2.9693
+valid metrics projection head: {'AMI': 0.5769800619015152, 'NMI': 0.7142217190253226, 'mean_average_precision': 0.6928895612708018, 'mean_average_precision_at_r': 0.6928895612708018, 'precision_at_1': 0.6928895612708018, 'r_precision': 0.6928895612708018}
+valid metric encoder: {'AMI': 0.44148400988281256, 'NMI': 0.6260754025083176, 'mean_average_precision': 0.7082072617246596, 'mean_average_precision_at_r': 0.7082072617246596, 'precision_at_1': 0.7082072617246596, 'r_precision': 0.7082072617246596}
+INFO:root:Tue Dec 13 22:49:43 2022, epoch 96
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 96, train loss: 3.0137
+valid metrics projection head: {'AMI': 0.5775303241691688, 'NMI': 0.7147321614484389, 'mean_average_precision': 0.6935514372163388, 'mean_average_precision_at_r': 0.6935514372163388, 'precision_at_1': 0.6935514372163388, 'r_precision': 0.6935514372163388}
+valid metric encoder: {'AMI': 0.4431711620601972, 'NMI': 0.6276815469440499, 'mean_average_precision': 0.7018721633888049, 'mean_average_precision_at_r': 0.7018721633888049, 'precision_at_1': 0.7018721633888049, 'r_precision': 0.7018721633888049}
+INFO:root:Tue Dec 13 22:56:06 2022, epoch 97
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 97, train loss: 3.0003
+valid metrics projection head: {'AMI': 0.5863272948724118, 'NMI': 0.7205966440498495, 'mean_average_precision': 0.6963880484114977, 'mean_average_precision_at_r': 0.6963880484114977, 'precision_at_1': 0.6963880484114977, 'r_precision': 0.6963880484114977}
+valid metric encoder: {'AMI': 0.4455164272198778, 'NMI': 0.6294109663371801, 'mean_average_precision': 0.7117057488653555, 'mean_average_precision_at_r': 0.7117057488653555, 'precision_at_1': 0.7117057488653555, 'r_precision': 0.7117057488653555}
+INFO:root:precision_at_1 increased (0.694592 --> 0.696388).  Saving model ...
+INFO:root:Tue Dec 13 23:02:29 2022, epoch 98
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 98, train loss: 2.9833
+valid metrics projection head: {'AMI': 0.5820939549094227, 'NMI': 0.7178063940526289, 'mean_average_precision': 0.6982791225416036, 'mean_average_precision_at_r': 0.6982791225416036, 'precision_at_1': 0.6982791225416036, 'r_precision': 0.6982791225416036}
+valid metric encoder: {'AMI': 0.45197265643028134, 'NMI': 0.6333935517276686, 'mean_average_precision': 0.7129349470499243, 'mean_average_precision_at_r': 0.7129349470499243, 'precision_at_1': 0.7129349470499243, 'r_precision': 0.7129349470499243}
+INFO:root:precision_at_1 increased (0.696388 --> 0.698279).  Saving model ...
+INFO:root:Tue Dec 13 23:08:52 2022, epoch 99
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 128
+INFO:root:running k-nn with k=1
+INFO:root:embedding dimensionality is 2048
+INFO:root:running k-means clustering with k=266
+INFO:root:embedding dimensionality is 2048
+INFO:root:Epoch 99, train loss: 3.0019
+valid metrics projection head: {'AMI': 0.5905927604042336, 'NMI': 0.7235022465533018, 'mean_average_precision': 0.6943078668683812, 'mean_average_precision_at_r': 0.6943078668683812, 'precision_at_1': 0.6943078668683812, 'r_precision': 0.6943078668683812}
+valid metric encoder: {'AMI': 0.4520537918877024, 'NMI': 0.6335534437508272, 'mean_average_precision': 0.7118003025718608, 'mean_average_precision_at_r': 0.7118003025718608, 'precision_at_1': 0.7118003025718608, 'r_precision': 0.7118003025718608}

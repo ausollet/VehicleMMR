@@ -1,0 +1,612 @@
+INFO:root:Wed Dec 14 15:38:03 2022, epoch 0
+INFO:root:Epoch 0, train loss: 1.8729 valid metrics: {'loss': 1.8245074301958084, 'accuracy': 0.1796875, 'f1_scores': array([0.31147541, 0.        , 0.        , 0.125     , 0.06666667,
+       0.        , 0.16      ]), 'f1_score_macro': 0.09473458235753318}
+INFO:root:accuracy increased (0.000000 --> 0.179688).  Saving model ...
+INFO:root:Wed Dec 14 15:38:06 2022, epoch 1
+INFO:root:Epoch 1, train loss: 1.7480 valid metrics: {'loss': 1.7374795377254486, 'accuracy': 0.328125, 'f1_scores': array([0.35294118, 0.52941176, 0.34146341, 0.5       , 0.12903226,
+       0.        , 0.41176471]), 'f1_score_macro': 0.3235161885367837}
+INFO:root:accuracy increased (0.179688 --> 0.328125).  Saving model ...
+INFO:root:Wed Dec 14 15:38:09 2022, epoch 2
+INFO:root:Epoch 2, train loss: 1.6487 valid metrics: {'loss': 1.6580488234758377, 'accuracy': 0.4296875, 'f1_scores': array([0.42105263, 0.53846154, 0.47368421, 0.54545455, 0.29268293,
+       0.43902439, 0.38709677]), 'f1_score_macro': 0.44249385961258086}
+INFO:root:accuracy increased (0.328125 --> 0.429688).  Saving model ...
+INFO:root:Wed Dec 14 15:38:12 2022, epoch 3
+INFO:root:Epoch 3, train loss: 1.5630 valid metrics: {'loss': 1.5787648111581802, 'accuracy': 0.4609375, 'f1_scores': array([0.45783133, 0.57142857, 0.4       , 0.54545455, 0.25      ,
+       0.43478261, 0.66666667]), 'f1_score_macro': 0.4751662453638058}
+INFO:root:accuracy increased (0.429688 --> 0.460938).  Saving model ...
+INFO:root:Wed Dec 14 15:38:15 2022, epoch 4
+INFO:root:Epoch 4, train loss: 1.4810 valid metrics: {'loss': 1.5417931973934174, 'accuracy': 0.5078125, 'f1_scores': array([0.4556962 , 0.73684211, 0.47058824, 0.61538462, 0.4       ,
+       0.28571429, 0.73684211]), 'f1_score_macro': 0.5287239356358543}
+INFO:root:accuracy increased (0.460938 --> 0.507812).  Saving model ...
+INFO:root:Wed Dec 14 15:38:18 2022, epoch 5
+INFO:root:Epoch 5, train loss: 1.4006 valid metrics: {'loss': 1.503443032503128, 'accuracy': 0.4921875, 'f1_scores': array([0.46666667, 0.73684211, 0.44      , 0.74074074, 0.30769231,
+       0.24242424, 0.54545455]), 'f1_score_macro': 0.4971172297488086}
+INFO:root:Wed Dec 14 15:38:20 2022, epoch 6
+INFO:root:Epoch 6, train loss: 1.3757 valid metrics: {'loss': 1.4585013538599014, 'accuracy': 0.546875, 'f1_scores': array([0.53731343, 0.57894737, 0.45      , 0.8       , 0.51612903,
+       0.35294118, 0.75      ]), 'f1_score_macro': 0.5693330014265038}
+INFO:root:accuracy increased (0.507812 --> 0.546875).  Saving model ...
+INFO:root:Wed Dec 14 15:38:23 2022, epoch 7
+INFO:root:Epoch 7, train loss: 1.3118 valid metrics: {'loss': 1.4297304600477219, 'accuracy': 0.59375, 'f1_scores': array([0.59701493, 0.78947368, 0.52941176, 0.82758621, 0.57142857,
+       0.26315789, 0.66666667]), 'f1_score_macro': 0.6063913877168822}
+INFO:root:accuracy increased (0.546875 --> 0.593750).  Saving model ...
+INFO:root:Wed Dec 14 15:38:26 2022, epoch 8
+INFO:root:Epoch 8, train loss: 1.2916 valid metrics: {'loss': 1.3904934227466583, 'accuracy': 0.59375, 'f1_scores': array([0.55737705, 0.65      , 0.6       , 0.82758621, 0.54545455,
+       0.45454545, 0.63157895]), 'f1_score_macro': 0.6095060290636144}
+INFO:root:Wed Dec 14 15:38:29 2022, epoch 9
+INFO:root:Epoch 9, train loss: 1.2523 valid metrics: {'loss': 1.3848830461502075, 'accuracy': 0.609375, 'f1_scores': array([0.60606061, 0.71428571, 0.68965517, 0.82758621, 0.46666667,
+       0.37209302, 0.70588235]), 'f1_score_macro': 0.626032820360046}
+INFO:root:accuracy increased (0.593750 --> 0.609375).  Saving model ...
+INFO:root:Wed Dec 14 15:38:32 2022, epoch 10
+INFO:root:Epoch 10, train loss: 1.2444 valid metrics: {'loss': 1.3891901820898056, 'accuracy': 0.59375, 'f1_scores': array([0.57627119, 0.66666667, 0.64516129, 0.77419355, 0.54545455,
+       0.38297872, 0.75      ]), 'f1_score_macro': 0.6201037086679746}
+INFO:root:Wed Dec 14 15:38:35 2022, epoch 11
+INFO:root:Epoch 11, train loss: 1.2016 valid metrics: {'loss': 1.3359738141298294, 'accuracy': 0.6171875, 'f1_scores': array([0.64150943, 0.65      , 0.6       , 0.77419355, 0.61111111,
+       0.41666667, 0.77777778]), 'f1_score_macro': 0.6387512197007023}
+INFO:root:accuracy increased (0.609375 --> 0.617188).  Saving model ...
+INFO:root:Wed Dec 14 15:38:38 2022, epoch 12
+INFO:root:Epoch 12, train loss: 1.1815 valid metrics: {'loss': 1.3476829081773758, 'accuracy': 0.59375, 'f1_scores': array([0.58181818, 0.61538462, 0.60606061, 0.82758621, 0.54545455,
+       0.44897959, 0.66666667]), 'f1_score_macro': 0.6131357734454145}
+INFO:root:Wed Dec 14 15:38:41 2022, epoch 13
+INFO:root:Epoch 13, train loss: 1.1837 valid metrics: {'loss': 1.3323904275894165, 'accuracy': 0.5859375, 'f1_scores': array([0.51724138, 0.66666667, 0.625     , 0.73333333, 0.6875    ,
+       0.375     , 0.70588235]), 'f1_score_macro': 0.6158033903216459}
+INFO:root:Wed Dec 14 15:38:44 2022, epoch 14
+INFO:root:Epoch 14, train loss: 1.1509 valid metrics: {'loss': 1.3235246688127518, 'accuracy': 0.5859375, 'f1_scores': array([0.53333333, 0.63157895, 0.64705882, 0.8       , 0.53333333,
+       0.40816327, 0.8       ]), 'f1_score_macro': 0.621923957552946}
+INFO:root:Wed Dec 14 15:38:47 2022, epoch 15
+INFO:root:Epoch 15, train loss: 1.1700 valid metrics: {'loss': 1.3213501870632172, 'accuracy': 0.6015625, 'f1_scores': array([0.57142857, 0.66666667, 0.54545455, 0.82758621, 0.54545455,
+       0.44897959, 0.82352941]), 'f1_score_macro': 0.6327285056431888}
+INFO:root:Wed Dec 14 15:38:49 2022, epoch 16
+INFO:root:Epoch 16, train loss: 1.1407 valid metrics: {'loss': 1.3148208260536194, 'accuracy': 0.5859375, 'f1_scores': array([0.54237288, 0.71794872, 0.58064516, 0.8       , 0.48484848,
+       0.40816327, 0.8       ]), 'f1_score_macro': 0.6191397872499401}
+INFO:root:Wed Dec 14 15:38:52 2022, epoch 17
+INFO:root:Epoch 17, train loss: 1.1288 valid metrics: {'loss': 1.301508441567421, 'accuracy': 0.6171875, 'f1_scores': array([0.61016949, 0.73170732, 0.58064516, 0.82758621, 0.54054054,
+       0.41860465, 0.75      ]), 'f1_score_macro': 0.6370361954984}
+INFO:root:Wed Dec 14 15:38:55 2022, epoch 18
+INFO:root:Epoch 18, train loss: 1.1381 valid metrics: {'loss': 1.3180989772081375, 'accuracy': 0.6171875, 'f1_scores': array([0.5862069 , 0.68421053, 0.55555556, 0.82758621, 0.625     ,
+       0.43478261, 0.82352941]), 'f1_score_macro': 0.6481244579685684}
+INFO:root:Wed Dec 14 15:38:58 2022, epoch 19
+INFO:root:Epoch 19, train loss: 1.1371 valid metrics: {'loss': 1.3269433677196503, 'accuracy': 0.6328125, 'f1_scores': array([0.61016949, 0.66666667, 0.66666667, 0.82758621, 0.61111111,
+       0.45454545, 0.75      ]), 'f1_score_macro': 0.6552493710588392}
+INFO:root:accuracy increased (0.617188 --> 0.632812).  Saving model ...
+INFO:root:Wed Dec 14 15:39:01 2022, epoch 20
+INFO:root:Epoch 20, train loss: 1.1249 valid metrics: {'loss': 1.3125307857990265, 'accuracy': 0.59375, 'f1_scores': array([0.5       , 0.7       , 0.66666667, 0.8       , 0.6       ,
+       0.41666667, 0.63157895]), 'f1_score_macro': 0.6164160401002506}
+INFO:root:Wed Dec 14 15:39:04 2022, epoch 21
+INFO:root:Epoch 21, train loss: 1.1062 valid metrics: {'loss': 1.3223795294761658, 'accuracy': 0.59375, 'f1_scores': array([0.50909091, 0.7       , 0.64864865, 0.77419355, 0.58823529,
+       0.38095238, 0.70588235]), 'f1_score_macro': 0.6152861620196941}
+INFO:root:Wed Dec 14 15:39:07 2022, epoch 22
+INFO:root:Epoch 22, train loss: 1.1142 valid metrics: {'loss': 1.2970928251743317, 'accuracy': 0.6328125, 'f1_scores': array([0.6440678 , 0.65      , 0.66666667, 0.85714286, 0.70967742,
+       0.38297872, 0.66666667]), 'f1_score_macro': 0.6538857328350647}
+INFO:root:Wed Dec 14 15:39:10 2022, epoch 23
+INFO:root:Epoch 23, train loss: 1.1090 valid metrics: {'loss': 1.2826185375452042, 'accuracy': 0.609375, 'f1_scores': array([0.57142857, 0.7       , 0.64705882, 0.82758621, 0.57142857,
+       0.40909091, 0.66666667]), 'f1_score_macro': 0.6276085355772404}
+INFO:root:Wed Dec 14 15:39:13 2022, epoch 24
+INFO:root:Epoch 24, train loss: 1.0953 valid metrics: {'loss': 1.3052320182323456, 'accuracy': 0.609375, 'f1_scores': array([0.5862069 , 0.68292683, 0.64705882, 0.8       , 0.58823529,
+       0.37209302, 0.75      ]), 'f1_score_macro': 0.6323601238175557}
+INFO:root:Wed Dec 14 15:39:15 2022, epoch 25
+INFO:root:Epoch 25, train loss: 1.1060 valid metrics: {'loss': 1.2943511754274368, 'accuracy': 0.6015625, 'f1_scores': array([0.5862069 , 0.7027027 , 0.59459459, 0.8       , 0.58064516,
+       0.4       , 0.66666667]), 'f1_score_macro': 0.6186880031151443}
+INFO:root:Wed Dec 14 15:39:18 2022, epoch 26
+INFO:root:Epoch 26, train loss: 1.0925 valid metrics: {'loss': 1.271469108760357, 'accuracy': 0.6171875, 'f1_scores': array([0.56140351, 0.66666667, 0.61111111, 0.83870968, 0.6875    ,
+       0.42553191, 0.70588235]), 'f1_score_macro': 0.6424007474005509}
+INFO:root:Wed Dec 14 15:39:21 2022, epoch 27
+INFO:root:Epoch 27, train loss: 1.0964 valid metrics: {'loss': 1.3061193525791168, 'accuracy': 0.6015625, 'f1_scores': array([0.59649123, 0.68421053, 0.51282051, 0.85714286, 0.61111111,
+       0.38095238, 0.75      ]), 'f1_score_macro': 0.6275326594875467}
+INFO:root:Wed Dec 14 15:39:24 2022, epoch 28
+INFO:root:Epoch 28, train loss: 1.0835 valid metrics: {'loss': 1.267960973083973, 'accuracy': 0.5703125, 'f1_scores': array([0.5       , 0.68421053, 0.55555556, 0.8       , 0.57142857,
+       0.36363636, 0.70588235]), 'f1_score_macro': 0.5972447671253509}
+INFO:root:Wed Dec 14 15:39:27 2022, epoch 29
+INFO:root:Epoch 29, train loss: 1.0654 valid metrics: {'loss': 1.2508104741573334, 'accuracy': 0.6640625, 'f1_scores': array([0.72413793, 0.63157895, 0.66666667, 0.8       , 0.6875    ,
+       0.45833333, 0.82352941]), 'f1_score_macro': 0.6845351843096585}
+INFO:root:accuracy increased (0.632812 --> 0.664062).  Saving model ...
+INFO:root:Wed Dec 14 15:39:30 2022, epoch 30
+INFO:root:Epoch 30, train loss: 1.0529 valid metrics: {'loss': 1.275717169046402, 'accuracy': 0.6484375, 'f1_scores': array([0.56140351, 0.7       , 0.72727273, 0.86666667, 0.62857143,
+       0.5       , 0.70588235]), 'f1_score_macro': 0.6699709548891326}
+INFO:root:Wed Dec 14 15:39:33 2022, epoch 31
+INFO:root:Epoch 31, train loss: 1.0612 valid metrics: {'loss': 1.2856031358242035, 'accuracy': 0.6171875, 'f1_scores': array([0.58181818, 0.7027027 , 0.63157895, 0.8       , 0.6       ,
+       0.42553191, 0.73684211]), 'f1_score_macro': 0.6397819788637259}
+INFO:root:Wed Dec 14 15:39:35 2022, epoch 32
+INFO:root:Epoch 32, train loss: 1.0199 valid metrics: {'loss': 1.2639340460300446, 'accuracy': 0.578125, 'f1_scores': array([0.55555556, 0.68571429, 0.55555556, 0.8       , 0.51428571,
+       0.4       , 0.66666667]), 'f1_score_macro': 0.5968253968253968}
+INFO:root:Wed Dec 14 15:39:38 2022, epoch 33
+INFO:root:Epoch 33, train loss: 0.9998 valid metrics: {'loss': 1.2232255265116692, 'accuracy': 0.640625, 'f1_scores': array([0.63157895, 0.71794872, 0.62857143, 0.8       , 0.5625    ,
+       0.48888889, 0.77777778]), 'f1_score_macro': 0.6581808229364621}
+INFO:root:Wed Dec 14 15:39:41 2022, epoch 34
+INFO:root:Epoch 34, train loss: 1.0107 valid metrics: {'loss': 1.2257851287722588, 'accuracy': 0.640625, 'f1_scores': array([0.61818182, 0.66666667, 0.66666667, 0.8       , 0.7027027 ,
+       0.42553191, 0.8       ]), 'f1_score_macro': 0.6685356813016388}
+INFO:root:Wed Dec 14 15:39:44 2022, epoch 35
+INFO:root:Epoch 35, train loss: 0.9833 valid metrics: {'loss': 1.2115670070052147, 'accuracy': 0.6328125, 'f1_scores': array([0.63157895, 0.72222222, 0.59459459, 0.8       , 0.625     ,
+       0.44897959, 0.8       ]), 'f1_score_macro': 0.6603393365745676}
+INFO:root:Wed Dec 14 15:39:47 2022, epoch 36
+INFO:root:Epoch 36, train loss: 0.9433 valid metrics: {'loss': 1.2137262523174286, 'accuracy': 0.6328125, 'f1_scores': array([0.61818182, 0.63414634, 0.61538462, 0.83870968, 0.64705882,
+       0.43243243, 0.73684211]), 'f1_score_macro': 0.6461079733820293}
+INFO:root:Wed Dec 14 15:39:50 2022, epoch 37
+INFO:root:Epoch 37, train loss: 0.9783 valid metrics: {'loss': 1.2322651594877243, 'accuracy': 0.6015625, 'f1_scores': array([0.56603774, 0.66666667, 0.62857143, 0.75      , 0.54545455,
+       0.47826087, 0.66666667]), 'f1_score_macro': 0.6145225589676545}
+INFO:root:Wed Dec 14 15:39:53 2022, epoch 38
+INFO:root:Epoch 38, train loss: 0.8988 valid metrics: {'loss': 1.2098250836133957, 'accuracy': 0.6171875, 'f1_scores': array([0.59259259, 0.66666667, 0.61538462, 0.8       , 0.61111111,
+       0.43478261, 0.8       ]), 'f1_score_macro': 0.6457910849215197}
+INFO:root:Wed Dec 14 15:39:55 2022, epoch 39
+INFO:root:Epoch 39, train loss: 0.9201 valid metrics: {'loss': 1.2123387977480888, 'accuracy': 0.625, 'f1_scores': array([0.59259259, 0.63157895, 0.66666667, 0.82758621, 0.63157895,
+       0.46808511, 0.70588235]), 'f1_score_macro': 0.6462815457452583}
+INFO:root:Wed Dec 14 15:39:58 2022, epoch 40
+INFO:root:Epoch 40, train loss: 0.8842 valid metrics: {'loss': 1.1687520667910576, 'accuracy': 0.625, 'f1_scores': array([0.64516129, 0.75675676, 0.64864865, 0.86666667, 0.5625    ,
+       0.31578947, 0.6       ]), 'f1_score_macro': 0.6279318337255518}
+INFO:root:Wed Dec 14 15:40:01 2022, epoch 41
+INFO:root:Epoch 41, train loss: 0.8743 valid metrics: {'loss': 1.1740182489156723, 'accuracy': 0.640625, 'f1_scores': array([0.60714286, 0.75675676, 0.64864865, 0.77419355, 0.625     ,
+       0.43478261, 0.82352941]), 'f1_score_macro': 0.6671505473422454}
+INFO:root:Wed Dec 14 15:40:04 2022, epoch 42
+INFO:root:Epoch 42, train loss: 0.8608 valid metrics: {'loss': 1.173397347331047, 'accuracy': 0.6484375, 'f1_scores': array([0.6440678 , 0.7027027 , 0.64864865, 0.77419355, 0.66666667,
+       0.45454545, 0.8       ]), 'f1_score_macro': 0.6701178310801056}
+INFO:root:Wed Dec 14 15:40:07 2022, epoch 43
+INFO:root:Epoch 43, train loss: 0.8657 valid metrics: {'loss': 1.1663813814520836, 'accuracy': 0.5859375, 'f1_scores': array([0.56603774, 0.61538462, 0.58536585, 0.82758621, 0.54545455,
+       0.37209302, 0.77777778]), 'f1_score_macro': 0.612814251182414}
+INFO:root:Wed Dec 14 15:40:10 2022, epoch 44
+INFO:root:Epoch 44, train loss: 0.8683 valid metrics: {'loss': 1.1779451668262482, 'accuracy': 0.59375, 'f1_scores': array([0.50909091, 0.61111111, 0.61111111, 0.82758621, 0.54054054,
+       0.46511628, 0.8       ]), 'f1_score_macro': 0.6235080225457129}
+INFO:root:Wed Dec 14 15:40:13 2022, epoch 45
+INFO:root:Epoch 45, train loss: 0.8199 valid metrics: {'loss': 1.16470355540514, 'accuracy': 0.6171875, 'f1_scores': array([0.58181818, 0.73684211, 0.62857143, 0.8       , 0.625     ,
+       0.40816327, 0.70588235]), 'f1_score_macro': 0.6408967619857239}
+INFO:root:Wed Dec 14 15:40:16 2022, epoch 46
+INFO:root:Epoch 46, train loss: 0.8026 valid metrics: {'loss': 1.172401785850525, 'accuracy': 0.59375, 'f1_scores': array([0.53846154, 0.68421053, 0.53658537, 0.82758621, 0.58823529,
+       0.40909091, 0.77777778]), 'f1_score_macro': 0.6231353740734102}
+INFO:root:Wed Dec 14 15:40:18 2022, epoch 47
+INFO:root:Epoch 47, train loss: 0.8324 valid metrics: {'loss': 1.199313573539257, 'accuracy': 0.609375, 'f1_scores': array([0.58181818, 0.66666667, 0.61538462, 0.86666667, 0.54545455,
+       0.41860465, 0.70588235]), 'f1_score_macro': 0.628639668584949}
+INFO:root:Wed Dec 14 15:40:21 2022, epoch 48
+INFO:root:Epoch 48, train loss: 0.8159 valid metrics: {'loss': 1.1481367275118828, 'accuracy': 0.625, 'f1_scores': array([0.60714286, 0.76923077, 0.63157895, 0.82758621, 0.5625    ,
+       0.4       , 0.70588235]), 'f1_score_macro': 0.6434173047971108}
+INFO:root:Wed Dec 14 15:40:24 2022, epoch 49
+INFO:root:Epoch 49, train loss: 0.7950 valid metrics: {'loss': 1.1710075959563255, 'accuracy': 0.609375, 'f1_scores': array([0.53571429, 0.7027027 , 0.62857143, 0.83870968, 0.58823529,
+       0.36363636, 0.84210526]), 'f1_score_macro': 0.6428107164742397}
+INFO:root:Wed Dec 14 15:40:27 2022, epoch 50
+INFO:root:Epoch 50, train loss: 0.8020 valid metrics: {'loss': 1.1914482563734055, 'accuracy': 0.59375, 'f1_scores': array([0.51851852, 0.66666667, 0.58536585, 0.82758621, 0.55555556,
+       0.45454545, 0.75      ]), 'f1_score_macro': 0.6226054651201834}
+INFO:root:Wed Dec 14 15:40:30 2022, epoch 51
+INFO:root:Epoch 51, train loss: 0.7868 valid metrics: {'loss': 1.1834979504346848, 'accuracy': 0.609375, 'f1_scores': array([0.5862069 , 0.68421053, 0.61111111, 0.8       , 0.5       ,
+       0.42553191, 0.93333333]), 'f1_score_macro': 0.6486276831722251}
+INFO:root:Wed Dec 14 15:40:33 2022, epoch 52
+INFO:root:Epoch 52, train loss: 0.7822 valid metrics: {'loss': 1.1612389087677002, 'accuracy': 0.625, 'f1_scores': array([0.55172414, 0.72222222, 0.61538462, 0.82758621, 0.66666667,
+       0.41860465, 0.77777778]), 'f1_score_macro': 0.654280896863094}
+INFO:root:Wed Dec 14 15:40:36 2022, epoch 53
+INFO:root:Epoch 53, train loss: 0.7647 valid metrics: {'loss': 1.1878261417150497, 'accuracy': 0.625, 'f1_scores': array([0.62068966, 0.65      , 0.64705882, 0.8       , 0.64516129,
+       0.4       , 0.77777778]), 'f1_score_macro': 0.6486696495431692}
+INFO:root:Wed Dec 14 15:40:38 2022, epoch 54
+INFO:root:Epoch 54, train loss: 0.7605 valid metrics: {'loss': 1.1287600994110107, 'accuracy': 0.625, 'f1_scores': array([0.57692308, 0.7       , 0.68571429, 0.8       , 0.59459459,
+       0.4       , 0.82352941]), 'f1_score_macro': 0.6543944812852376}
+INFO:root:Wed Dec 14 15:40:41 2022, epoch 55
+INFO:root:Epoch 55, train loss: 0.7753 valid metrics: {'loss': 1.1609195992350578, 'accuracy': 0.609375, 'f1_scores': array([0.57142857, 0.66666667, 0.55      , 0.8       , 0.64705882,
+       0.40909091, 0.875     ]), 'f1_score_macro': 0.645606424387937}
+INFO:root:Wed Dec 14 15:40:44 2022, epoch 56
+INFO:root:Epoch 56, train loss: 0.7634 valid metrics: {'loss': 1.1495459005236626, 'accuracy': 0.625, 'f1_scores': array([0.60714286, 0.68421053, 0.62857143, 0.8       , 0.58823529,
+       0.44444444, 0.77777778]), 'f1_score_macro': 0.6471974754814207}
+INFO:root:Wed Dec 14 15:40:47 2022, epoch 57
+INFO:root:Epoch 57, train loss: 0.7607 valid metrics: {'loss': 1.1657349914312363, 'accuracy': 0.6171875, 'f1_scores': array([0.57142857, 0.7027027 , 0.70588235, 0.8       , 0.54054054,
+       0.40909091, 0.77777778]), 'f1_score_macro': 0.6439175506402398}
+INFO:root:Wed Dec 14 15:40:50 2022, epoch 58
+INFO:root:Epoch 58, train loss: 0.7754 valid metrics: {'loss': 1.1748060509562492, 'accuracy': 0.6015625, 'f1_scores': array([0.56140351, 0.61538462, 0.63157895, 0.82758621, 0.64705882,
+       0.35      , 0.73684211]), 'f1_score_macro': 0.6242648867448697}
+INFO:root:Wed Dec 14 15:40:53 2022, epoch 59
+INFO:root:Epoch 59, train loss: 0.7651 valid metrics: {'loss': 1.1365009993314743, 'accuracy': 0.640625, 'f1_scores': array([0.60377358, 0.71794872, 0.66666667, 0.76470588, 0.5625    ,
+       0.48888889, 0.82352941]), 'f1_score_macro': 0.6611447360753687}
+INFO:root:Wed Dec 14 15:40:56 2022, epoch 60
+INFO:root:Epoch 60, train loss: 0.7740 valid metrics: {'loss': 1.1514894664287567, 'accuracy': 0.625, 'f1_scores': array([0.56140351, 0.66666667, 0.56410256, 0.86666667, 0.5625    ,
+       0.53333333, 0.82352941]), 'f1_score_macro': 0.654028878757981}
+INFO:root:Wed Dec 14 15:40:58 2022, epoch 61
+INFO:root:Epoch 61, train loss: 0.8104 valid metrics: {'loss': 1.1914275288581848, 'accuracy': 0.609375, 'f1_scores': array([0.55555556, 0.66666667, 0.62857143, 0.8       , 0.57142857,
+       0.47826087, 0.7       ]), 'f1_score_macro': 0.6286404416839201}
+INFO:root:Wed Dec 14 15:41:01 2022, epoch 62
+INFO:root:Epoch 62, train loss: 0.7489 valid metrics: {'loss': 1.1780259162187576, 'accuracy': 0.609375, 'f1_scores': array([0.55555556, 0.66666667, 0.61111111, 0.83870968, 0.60606061,
+       0.40909091, 0.73684211]), 'f1_score_macro': 0.6320052330239088}
+INFO:root:Wed Dec 14 15:41:04 2022, epoch 63
+INFO:root:Epoch 63, train loss: 0.7793 valid metrics: {'loss': 1.1289821937680244, 'accuracy': 0.6171875, 'f1_scores': array([0.54901961, 0.57142857, 0.59459459, 0.86666667, 0.64864865,
+       0.46808511, 0.84210526]), 'f1_score_macro': 0.6486497798174989}
+INFO:root:Wed Dec 14 15:41:07 2022, epoch 64
+INFO:root:Epoch 64, train loss: 0.7528 valid metrics: {'loss': 1.2265600264072418, 'accuracy': 0.59375, 'f1_scores': array([0.55172414, 0.61111111, 0.64864865, 0.86666667, 0.45714286,
+       0.44444444, 0.8       ]), 'f1_score_macro': 0.6256768379921089}
+INFO:root:Wed Dec 14 15:41:10 2022, epoch 65
+INFO:root:Epoch 65, train loss: 0.7779 valid metrics: {'loss': 1.1599848717451096, 'accuracy': 0.609375, 'f1_scores': array([0.57627119, 0.7       , 0.59459459, 0.83870968, 0.48275862,
+       0.41860465, 0.82352941]), 'f1_score_macro': 0.6334954488673971}
+INFO:root:Wed Dec 14 15:41:13 2022, epoch 66
+INFO:root:Epoch 66, train loss: 0.7873 valid metrics: {'loss': 1.1965696066617966, 'accuracy': 0.59375, 'f1_scores': array([0.52830189, 0.61538462, 0.68571429, 0.8       , 0.55555556,
+       0.42553191, 0.75      ]), 'f1_score_macro': 0.6229268940486467}
+INFO:root:Wed Dec 14 15:41:16 2022, epoch 67
+INFO:root:Epoch 67, train loss: 0.7727 valid metrics: {'loss': 1.1527284532785416, 'accuracy': 0.625, 'f1_scores': array([0.56603774, 0.73684211, 0.6       , 0.8125    , 0.66666667,
+       0.40909091, 0.75      ]), 'f1_score_macro': 0.6487339166956844}
+INFO:root:Wed Dec 14 15:41:18 2022, epoch 68
+INFO:root:Epoch 68, train loss: 0.7491 valid metrics: {'loss': 1.228141501545906, 'accuracy': 0.5625, 'f1_scores': array([0.54545455, 0.57142857, 0.57894737, 0.82758621, 0.51612903,
+       0.36734694, 0.73684211]), 'f1_score_macro': 0.5919621097853506}
+INFO:root:Wed Dec 14 15:41:21 2022, epoch 69
+INFO:root:Epoch 69, train loss: 0.7612 valid metrics: {'loss': 1.1315333843231201, 'accuracy': 0.6328125, 'f1_scores': array([0.59259259, 0.73684211, 0.66666667, 0.70588235, 0.6       ,
+       0.45833333, 0.875     ]), 'f1_score_macro': 0.6621881501138468}
+INFO:root:Wed Dec 14 15:41:24 2022, epoch 70
+INFO:root:Epoch 70, train loss: 0.7391 valid metrics: {'loss': 1.1946830824017525, 'accuracy': 0.578125, 'f1_scores': array([0.5       , 0.63157895, 0.64864865, 0.8       , 0.55555556,
+       0.40909091, 0.63157895]), 'f1_score_macro': 0.5966361440045651}
+INFO:root:Wed Dec 14 15:41:27 2022, epoch 71
+INFO:root:Epoch 71, train loss: 0.7267 valid metrics: {'loss': 1.1962233632802963, 'accuracy': 0.609375, 'f1_scores': array([0.56603774, 0.6       , 0.68571429, 0.86666667, 0.64516129,
+       0.4       , 0.70588235]), 'f1_score_macro': 0.6384946187848237}
+INFO:root:Wed Dec 14 15:41:30 2022, epoch 72
+INFO:root:Epoch 72, train loss: 0.7437 valid metrics: {'loss': 1.1785127073526382, 'accuracy': 0.609375, 'f1_scores': array([0.64285714, 0.66666667, 0.61111111, 0.8       , 0.55555556,
+       0.37209302, 0.75      ]), 'f1_score_macro': 0.6283262142066128}
+INFO:root:Wed Dec 14 15:41:33 2022, epoch 73
+INFO:root:Epoch 73, train loss: 0.7420 valid metrics: {'loss': 1.1463699340820312, 'accuracy': 0.6171875, 'f1_scores': array([0.54166667, 0.7027027 , 0.63157895, 0.77419355, 0.63157895,
+       0.44897959, 0.8       ]), 'f1_score_macro': 0.6472429149042919}
+INFO:root:Wed Dec 14 15:41:35 2022, epoch 74
+INFO:root:Epoch 74, train loss: 0.7475 valid metrics: {'loss': 1.1564375683665276, 'accuracy': 0.640625, 'f1_scores': array([0.64285714, 0.68292683, 0.66666667, 0.82758621, 0.64516129,
+       0.42553191, 0.75      ]), 'f1_score_macro': 0.6629614358435502}
+INFO:root:Wed Dec 14 15:41:38 2022, epoch 75
+INFO:root:Epoch 75, train loss: 0.7332 valid metrics: {'loss': 1.1512013673782349, 'accuracy': 0.578125, 'f1_scores': array([0.59259259, 0.56410256, 0.55      , 0.8       , 0.58064516,
+       0.39130435, 0.75      ]), 'f1_score_macro': 0.6040920951159381}
+INFO:root:Wed Dec 14 15:41:41 2022, epoch 76
+INFO:root:Epoch 76, train loss: 0.6883 valid metrics: {'loss': 1.0955602526664734, 'accuracy': 0.65625, 'f1_scores': array([0.63157895, 0.7       , 0.66666667, 0.83870968, 0.64705882,
+       0.46511628, 0.8       ]), 'f1_score_macro': 0.6784471991505174}
+INFO:root:Wed Dec 14 15:41:44 2022, epoch 77
+INFO:root:Epoch 77, train loss: 0.7258 valid metrics: {'loss': 1.133690856397152, 'accuracy': 0.578125, 'f1_scores': array([0.52830189, 0.64864865, 0.55      , 0.82758621, 0.64516129,
+       0.38297872, 0.63157895]), 'f1_score_macro': 0.6020365290618442}
+INFO:root:Wed Dec 14 15:41:47 2022, epoch 78
+INFO:root:Epoch 78, train loss: 0.6860 valid metrics: {'loss': 1.1335498467087746, 'accuracy': 0.609375, 'f1_scores': array([0.54545455, 0.72222222, 0.53658537, 0.8       , 0.6       ,
+       0.42553191, 0.94117647]), 'f1_score_macro': 0.6529957884303256}
+INFO:root:Wed Dec 14 15:41:50 2022, epoch 79
+INFO:root:Epoch 79, train loss: 0.7175 valid metrics: {'loss': 1.1622401177883148, 'accuracy': 0.609375, 'f1_scores': array([0.58823529, 0.63414634, 0.66666667, 0.8       , 0.58823529,
+       0.40816327, 0.8       ]), 'f1_score_macro': 0.6407781230959283}
+INFO:root:Wed Dec 14 15:41:53 2022, epoch 80
+INFO:root:Epoch 80, train loss: 0.6637 valid metrics: {'loss': 1.1267451867461205, 'accuracy': 0.640625, 'f1_scores': array([0.61818182, 0.66666667, 0.57142857, 0.86666667, 0.66666667,
+       0.42857143, 0.93333333]), 'f1_score_macro': 0.6787878787878787}
+INFO:root:Wed Dec 14 15:41:55 2022, epoch 81
+INFO:root:Epoch 81, train loss: 0.7085 valid metrics: {'loss': 1.157046377658844, 'accuracy': 0.609375, 'f1_scores': array([0.52631579, 0.7027027 , 0.57894737, 0.82758621, 0.64516129,
+       0.47826087, 0.66666667]), 'f1_score_macro': 0.6322344134354937}
+INFO:root:Wed Dec 14 15:41:58 2022, epoch 82
+INFO:root:Epoch 82, train loss: 0.6744 valid metrics: {'loss': 1.1738328263163567, 'accuracy': 0.59375, 'f1_scores': array([0.54545455, 0.66666667, 0.57894737, 0.82758621, 0.52941176,
+       0.43478261, 0.77777778]), 'f1_score_macro': 0.6229467055168756}
+INFO:root:Wed Dec 14 15:42:01 2022, epoch 83
+INFO:root:Epoch 83, train loss: 0.6733 valid metrics: {'loss': 1.1672099605202675, 'accuracy': 0.65625, 'f1_scores': array([0.65454545, 0.7027027 , 0.63157895, 0.82758621, 0.62857143,
+       0.52173913, 0.75      ]), 'f1_score_macro': 0.6738176957884774}
+INFO:root:Wed Dec 14 15:42:04 2022, epoch 84
+INFO:root:Epoch 84, train loss: 0.6583 valid metrics: {'loss': 1.1472805887460709, 'accuracy': 0.640625, 'f1_scores': array([0.56140351, 0.73170732, 0.75      , 0.86666667, 0.51612903,
+       0.47826087, 0.73684211]), 'f1_score_macro': 0.6630013570854582}
+INFO:root:Wed Dec 14 15:42:07 2022, epoch 85
+INFO:root:Epoch 85, train loss: 0.6644 valid metrics: {'loss': 1.1342901289463043, 'accuracy': 0.625, 'f1_scores': array([0.56140351, 0.68421053, 0.64864865, 0.83870968, 0.58823529,
+       0.47619048, 0.70588235]), 'f1_score_macro': 0.6433257834864319}
+INFO:root:Wed Dec 14 15:42:10 2022, epoch 86
+INFO:root:Epoch 86, train loss: 0.6386 valid metrics: {'loss': 1.146306224167347, 'accuracy': 0.6015625, 'f1_scores': array([0.58181818, 0.59459459, 0.61111111, 0.75      , 0.625     ,
+       0.39130435, 0.88888889]), 'f1_score_macro': 0.6346738748912663}
+INFO:root:Wed Dec 14 15:42:12 2022, epoch 87
+INFO:root:Epoch 87, train loss: 0.6470 valid metrics: {'loss': 1.1787143349647522, 'accuracy': 0.5859375, 'f1_scores': array([0.57692308, 0.59459459, 0.56410256, 0.77419355, 0.58823529,
+       0.38297872, 0.875     ]), 'f1_score_macro': 0.6222896859327479}
+INFO:root:Wed Dec 14 15:42:15 2022, epoch 88
+INFO:root:Epoch 88, train loss: 0.6339 valid metrics: {'loss': 1.1235156953334808, 'accuracy': 0.640625, 'f1_scores': array([0.54545455, 0.71794872, 0.75      , 0.86666667, 0.625     ,
+       0.44897959, 0.73684211]), 'f1_score_macro': 0.6701273753099747}
+INFO:root:Wed Dec 14 15:42:18 2022, epoch 89
+INFO:root:Epoch 89, train loss: 0.6304 valid metrics: {'loss': 1.1305186972022057, 'accuracy': 0.640625, 'f1_scores': array([0.59649123, 0.7027027 , 0.66666667, 0.8       , 0.5625    ,
+       0.5       , 0.84210526]), 'f1_score_macro': 0.6672094086567771}
+INFO:root:Wed Dec 14 15:42:21 2022, epoch 90
+INFO:root:Epoch 90, train loss: 0.6499 valid metrics: {'loss': 1.1992119029164314, 'accuracy': 0.609375, 'f1_scores': array([0.56140351, 0.66666667, 0.64864865, 0.8       , 0.58823529,
+       0.3902439 , 0.77777778]), 'f1_score_macro': 0.6332822569173848}
+INFO:root:Wed Dec 14 15:42:24 2022, epoch 91
+INFO:root:Epoch 91, train loss: 0.6477 valid metrics: {'loss': 1.1579942256212234, 'accuracy': 0.609375, 'f1_scores': array([0.54545455, 0.71794872, 0.68571429, 0.8       , 0.5       ,
+       0.41666667, 0.82352941]), 'f1_score_macro': 0.6413305182212745}
+INFO:root:Wed Dec 14 15:42:27 2022, epoch 92
+INFO:root:Epoch 92, train loss: 0.6330 valid metrics: {'loss': 1.1766610220074654, 'accuracy': 0.609375, 'f1_scores': array([0.54545455, 0.7       , 0.57894737, 0.85714286, 0.54545455,
+       0.45454545, 0.77777778]), 'f1_score_macro': 0.6370460783994619}
+INFO:root:Wed Dec 14 15:42:29 2022, epoch 93
+INFO:root:Epoch 93, train loss: 0.6186 valid metrics: {'loss': 1.1680105850100517, 'accuracy': 0.59375, 'f1_scores': array([0.55555556, 0.73684211, 0.57894737, 0.77419355, 0.52941176,
+       0.4       , 0.75      ]), 'f1_score_macro': 0.6178500489046778}
+INFO:root:Wed Dec 14 15:42:32 2022, epoch 94
+INFO:root:Epoch 94, train loss: 0.6219 valid metrics: {'loss': 1.155176319181919, 'accuracy': 0.59375, 'f1_scores': array([0.55555556, 0.66666667, 0.62857143, 0.8125    , 0.47058824,
+       0.43478261, 0.75      ]), 'f1_score_macro': 0.6169520706833459}
+INFO:root:Wed Dec 14 15:42:35 2022, epoch 95
+INFO:root:Epoch 95, train loss: 0.5983 valid metrics: {'loss': 1.1676396653056145, 'accuracy': 0.6328125, 'f1_scores': array([0.64150943, 0.68421053, 0.68571429, 0.82758621, 0.57142857,
+       0.44444444, 0.66666667]), 'f1_score_macro': 0.645937162204082}
+INFO:root:Wed Dec 14 15:42:38 2022, epoch 96
+INFO:root:Epoch 96, train loss: 0.6309 valid metrics: {'loss': 1.1423844397068024, 'accuracy': 0.6328125, 'f1_scores': array([0.60377358, 0.75675676, 0.58536585, 0.86666667, 0.66666667,
+       0.39130435, 0.75      ]), 'f1_score_macro': 0.660076268068625}
+INFO:root:Wed Dec 14 15:42:41 2022, epoch 97
+INFO:root:Epoch 97, train loss: 0.6218 valid metrics: {'loss': 1.1492114588618279, 'accuracy': 0.6171875, 'f1_scores': array([0.58823529, 0.64864865, 0.62857143, 0.8       , 0.54054054,
+       0.48      , 0.875     ]), 'f1_score_macro': 0.6515708445540378}
+INFO:root:Wed Dec 14 15:42:44 2022, epoch 98
+INFO:root:Epoch 98, train loss: 0.6446 valid metrics: {'loss': 1.1736737564206123, 'accuracy': 0.6328125, 'f1_scores': array([0.61818182, 0.64864865, 0.61111111, 0.8       , 0.62857143,
+       0.5106383 , 0.75      ]), 'f1_score_macro': 0.6524501863407639}
+INFO:root:Wed Dec 14 15:42:47 2022, epoch 99
+INFO:root:Epoch 99, train loss: 0.6362 valid metrics: {'loss': 1.1736230999231339, 'accuracy': 0.6328125, 'f1_scores': array([0.57692308, 0.66666667, 0.61111111, 0.83870968, 0.64516129,
+       0.46808511, 0.8       ]), 'f1_score_macro': 0.6580938469751099}
+INFO:root:Wed Dec 14 15:42:50 2022, epoch 100
+INFO:root:Epoch 100, train loss: 0.6517 valid metrics: {'loss': 1.1119881719350815, 'accuracy': 0.640625, 'f1_scores': array([0.59259259, 0.75675676, 0.70588235, 0.8       , 0.5625    ,
+       0.48      , 0.73684211]), 'f1_score_macro': 0.6620819725076691}
+INFO:root:Wed Dec 14 15:42:52 2022, epoch 101
+INFO:root:Epoch 101, train loss: 0.6181 valid metrics: {'loss': 1.1698966100811958, 'accuracy': 0.6171875, 'f1_scores': array([0.62962963, 0.66666667, 0.58823529, 0.82758621, 0.60606061,
+       0.42553191, 0.7       ]), 'f1_score_macro': 0.6348157597521026}
+INFO:root:Wed Dec 14 15:42:55 2022, epoch 102
+INFO:root:Epoch 102, train loss: 0.6215 valid metrics: {'loss': 1.1366303712129593, 'accuracy': 0.6015625, 'f1_scores': array([0.55172414, 0.7027027 , 0.56410256, 0.85714286, 0.54545455,
+       0.45454545, 0.70588235]), 'f1_score_macro': 0.625936373545762}
+INFO:root:Wed Dec 14 15:42:58 2022, epoch 103
+INFO:root:Epoch 103, train loss: 0.6462 valid metrics: {'loss': 1.1175970956683159, 'accuracy': 0.609375, 'f1_scores': array([0.50980392, 0.63157895, 0.61111111, 0.86666667, 0.64705882,
+       0.43478261, 0.76190476]), 'f1_score_macro': 0.6375581201206646}
+INFO:root:Wed Dec 14 15:43:01 2022, epoch 104
+INFO:root:Epoch 104, train loss: 0.6302 valid metrics: {'loss': 1.1065482050180435, 'accuracy': 0.625, 'f1_scores': array([0.61016949, 0.62857143, 0.62857143, 0.89655172, 0.54545455,
+       0.47826087, 0.73684211]), 'f1_score_macro': 0.6463459418698762}
+INFO:root:Wed Dec 14 15:43:04 2022, epoch 105
+INFO:root:Epoch 105, train loss: 0.6450 valid metrics: {'loss': 1.1311827078461647, 'accuracy': 0.65625, 'f1_scores': array([0.62962963, 0.7       , 0.64705882, 0.83870968, 0.60606061,
+       0.52173913, 0.77777778]), 'f1_score_macro': 0.6744250921216518}
+INFO:root:Wed Dec 14 15:43:07 2022, epoch 106
+INFO:root:Epoch 106, train loss: 0.6092 valid metrics: {'loss': 1.1421757116913795, 'accuracy': 0.59375, 'f1_scores': array([0.56      , 0.59459459, 0.52631579, 0.8125    , 0.625     ,
+       0.41666667, 0.84210526]), 'f1_score_macro': 0.6253117591275485}
+INFO:root:Wed Dec 14 15:43:10 2022, epoch 107
+INFO:root:Epoch 107, train loss: 0.6231 valid metrics: {'loss': 1.1636124476790428, 'accuracy': 0.6015625, 'f1_scores': array([0.58181818, 0.61538462, 0.6       , 0.85714286, 0.5625    ,
+       0.44444444, 0.70588235]), 'f1_score_macro': 0.6238817788187536}
+INFO:root:Wed Dec 14 15:43:13 2022, epoch 108
+INFO:root:Epoch 108, train loss: 0.6174 valid metrics: {'loss': 1.1380983665585518, 'accuracy': 0.625, 'f1_scores': array([0.64150943, 0.59459459, 0.56410256, 0.83870968, 0.68571429,
+       0.41860465, 0.77777778]), 'f1_score_macro': 0.6458589978190902}
+INFO:root:Wed Dec 14 15:43:15 2022, epoch 109
+INFO:root:Epoch 109, train loss: 0.5950 valid metrics: {'loss': 1.1923030465841293, 'accuracy': 0.609375, 'f1_scores': array([0.61016949, 0.73684211, 0.64705882, 0.82758621, 0.5625    ,
+       0.33333333, 0.75      ]), 'f1_score_macro': 0.6382128515068397}
+INFO:root:Wed Dec 14 15:43:18 2022, epoch 110
+INFO:root:Epoch 110, train loss: 0.6174 valid metrics: {'loss': 1.1645922139286995, 'accuracy': 0.625, 'f1_scores': array([0.60714286, 0.58823529, 0.6       , 0.82758621, 0.64864865,
+       0.48888889, 0.8       ]), 'f1_score_macro': 0.6515002708135134}
+INFO:root:Wed Dec 14 15:43:21 2022, epoch 111
+INFO:root:Epoch 111, train loss: 0.6246 valid metrics: {'loss': 1.153520330786705, 'accuracy': 0.6328125, 'f1_scores': array([0.61818182, 0.63414634, 0.70588235, 0.82758621, 0.54545455,
+       0.5       , 0.7       ]), 'f1_score_macro': 0.6473216092767867}
+INFO:root:Wed Dec 14 15:43:24 2022, epoch 112
+INFO:root:Epoch 112, train loss: 0.6265 valid metrics: {'loss': 1.2033210098743439, 'accuracy': 0.609375, 'f1_scores': array([0.53571429, 0.64864865, 0.70588235, 0.82758621, 0.47058824,
+       0.5       , 0.77777778]), 'f1_score_macro': 0.6380282153246511}
+INFO:root:Wed Dec 14 15:43:27 2022, epoch 113
+INFO:root:Epoch 113, train loss: 0.6089 valid metrics: {'loss': 1.1776546388864517, 'accuracy': 0.6328125, 'f1_scores': array([0.53571429, 0.68292683, 0.70588235, 0.85714286, 0.58823529,
+       0.47826087, 0.82352941]), 'f1_score_macro': 0.6673845572163117}
+INFO:root:Wed Dec 14 15:43:30 2022, epoch 114
+INFO:root:Epoch 114, train loss: 0.5785 valid metrics: {'loss': 1.174108348786831, 'accuracy': 0.609375, 'f1_scores': array([0.55555556, 0.62857143, 0.66666667, 0.86666667, 0.56410256,
+       0.45454545, 0.66666667]), 'f1_score_macro': 0.6289678575392862}
+INFO:root:Wed Dec 14 15:43:32 2022, epoch 115
+INFO:root:Epoch 115, train loss: 0.5844 valid metrics: {'loss': 1.1384291350841522, 'accuracy': 0.6328125, 'f1_scores': array([0.64150943, 0.7       , 0.63157895, 0.8       , 0.625     ,
+       0.45454545, 0.63157895]), 'f1_score_macro': 0.6406018261777945}
+INFO:root:Wed Dec 14 15:43:35 2022, epoch 116
+INFO:root:Epoch 116, train loss: 0.5972 valid metrics: {'loss': 1.1611631363630295, 'accuracy': 0.59375, 'f1_scores': array([0.46808511, 0.61904762, 0.57894737, 0.8       , 0.64705882,
+       0.45833333, 0.82352941]), 'f1_score_macro': 0.6278573803541574}
+INFO:root:Wed Dec 14 15:43:38 2022, epoch 117
+INFO:root:Epoch 117, train loss: 0.6050 valid metrics: {'loss': 1.1677810847759247, 'accuracy': 0.609375, 'f1_scores': array([0.54545455, 0.68421053, 0.68571429, 0.8       , 0.58823529,
+       0.42553191, 0.70588235]), 'f1_score_macro': 0.6335755599195803}
+INFO:root:Wed Dec 14 15:43:41 2022, epoch 118
+INFO:root:Epoch 118, train loss: 0.5970 valid metrics: {'loss': 1.135636791586876, 'accuracy': 0.6484375, 'f1_scores': array([0.5862069 , 0.68421053, 0.68571429, 0.83870968, 0.625     ,
+       0.47826087, 0.875     ]), 'f1_score_macro': 0.6818717507951959}
+INFO:root:Wed Dec 14 15:43:44 2022, epoch 119
+INFO:root:Epoch 119, train loss: 0.5647 valid metrics: {'loss': 1.1968978568911552, 'accuracy': 0.6015625, 'f1_scores': array([0.64285714, 0.58823529, 0.61538462, 0.82758621, 0.44444444,
+       0.5       , 0.66666667]), 'f1_score_macro': 0.6121677671952954}
+INFO:root:Wed Dec 14 15:43:47 2022, epoch 120
+INFO:root:Epoch 120, train loss: 0.5828 valid metrics: {'loss': 1.233041673898697, 'accuracy': 0.5703125, 'f1_scores': array([0.53846154, 0.61111111, 0.53333333, 0.82758621, 0.62068966,
+       0.34042553, 0.77777778]), 'f1_score_macro': 0.6070550220953742}
+INFO:root:Wed Dec 14 15:43:50 2022, epoch 121
+INFO:root:Epoch 121, train loss: 0.5810 valid metrics: {'loss': 1.131394863128662, 'accuracy': 0.6796875, 'f1_scores': array([0.56140351, 0.77777778, 0.66666667, 0.86666667, 0.66666667,
+       0.57142857, 0.88888889]), 'f1_score_macro': 0.7142141066953097}
+INFO:root:accuracy increased (0.664062 --> 0.679688).  Saving model ...
+INFO:root:Wed Dec 14 15:43:53 2022, epoch 122
+INFO:root:Epoch 122, train loss: 0.5807 valid metrics: {'loss': 1.1434408947825432, 'accuracy': 0.6171875, 'f1_scores': array([0.5       , 0.76470588, 0.64864865, 0.8       , 0.5       ,
+       0.48979592, 0.88888889]), 'f1_score_macro': 0.656005619751118}
+INFO:root:Wed Dec 14 15:43:56 2022, epoch 123
+INFO:root:Epoch 123, train loss: 0.5660 valid metrics: {'loss': 1.1760455593466759, 'accuracy': 0.6171875, 'f1_scores': array([0.52631579, 0.68571429, 0.57142857, 0.83870968, 0.5       ,
+       0.52173913, 0.94117647]), 'f1_score_macro': 0.6550119892941305}
+INFO:root:Wed Dec 14 15:43:58 2022, epoch 124
+INFO:root:Epoch 124, train loss: 0.5579 valid metrics: {'loss': 1.2730649560689926, 'accuracy': 0.5859375, 'f1_scores': array([0.54901961, 0.64864865, 0.6       , 0.75      , 0.51428571,
+       0.3902439 , 0.8       ]), 'f1_score_macro': 0.6074568390309321}
+INFO:root:Wed Dec 14 15:44:01 2022, epoch 125
+INFO:root:Epoch 125, train loss: 0.5763 valid metrics: {'loss': 1.1660390198230743, 'accuracy': 0.6015625, 'f1_scores': array([0.59259259, 0.64864865, 0.55813953, 0.85714286, 0.60606061,
+       0.37209302, 0.77777778]), 'f1_score_macro': 0.6303507200517168}
+INFO:root:Wed Dec 14 15:44:04 2022, epoch 126
+INFO:root:Epoch 126, train loss: 0.5979 valid metrics: {'loss': 1.1466889083385468, 'accuracy': 0.625, 'f1_scores': array([0.59259259, 0.73684211, 0.66666667, 0.8       , 0.59459459,
+       0.3902439 , 0.7       ]), 'f1_score_macro': 0.6401342659365766}
+INFO:root:Wed Dec 14 15:44:07 2022, epoch 127
+INFO:root:Epoch 127, train loss: 0.6010 valid metrics: {'loss': 1.1706045866012573, 'accuracy': 0.6171875, 'f1_scores': array([0.50909091, 0.62857143, 0.61111111, 0.82758621, 0.54545455,
+       0.54901961, 0.94117647]), 'f1_score_macro': 0.6588586113651314}
+INFO:root:Wed Dec 14 15:44:10 2022, epoch 128
+INFO:root:Epoch 128, train loss: 0.5561 valid metrics: {'loss': 1.1736425757408142, 'accuracy': 0.609375, 'f1_scores': array([0.53846154, 0.68292683, 0.63157895, 0.86666667, 0.54545455,
+       0.43478261, 0.75      ]), 'f1_score_macro': 0.6356958765593025}
+INFO:root:Wed Dec 14 15:44:13 2022, epoch 129
+INFO:root:Epoch 129, train loss: 0.5572 valid metrics: {'loss': 1.150075875222683, 'accuracy': 0.6015625, 'f1_scores': array([0.56      , 0.66666667, 0.63157895, 0.8       , 0.52941176,
+       0.45833333, 0.7       ]), 'f1_score_macro': 0.6208558160106149}
+INFO:root:Wed Dec 14 15:44:16 2022, epoch 130
+INFO:root:Epoch 130, train loss: 0.5542 valid metrics: {'loss': 1.1657516434788704, 'accuracy': 0.609375, 'f1_scores': array([0.58181818, 0.66666667, 0.61538462, 0.77419355, 0.5625    ,
+       0.40909091, 0.84210526]), 'f1_score_macro': 0.6359655977864807}
+INFO:root:Wed Dec 14 15:44:18 2022, epoch 131
+INFO:root:Epoch 131, train loss: 0.5311 valid metrics: {'loss': 1.188446968793869, 'accuracy': 0.609375, 'f1_scores': array([0.56      , 0.68421053, 0.64864865, 0.8       , 0.58823529,
+       0.45833333, 0.63157895]), 'f1_score_macro': 0.6244295356834056}
+INFO:root:Wed Dec 14 15:44:21 2022, epoch 132
+INFO:root:Epoch 132, train loss: 0.5539 valid metrics: {'loss': 1.1512728780508041, 'accuracy': 0.609375, 'f1_scores': array([0.5       , 0.7       , 0.63157895, 0.86666667, 0.60606061,
+       0.4       , 0.77777778]), 'f1_score_macro': 0.6402977139819246}
+INFO:root:Wed Dec 14 15:44:24 2022, epoch 133
+INFO:root:Epoch 133, train loss: 0.5532 valid metrics: {'loss': 1.2074075266718864, 'accuracy': 0.609375, 'f1_scores': array([0.54545455, 0.68571429, 0.63157895, 0.82758621, 0.66666667,
+       0.38297872, 0.75      ]), 'f1_score_macro': 0.6414256250721037}
+INFO:root:Wed Dec 14 15:44:27 2022, epoch 134
+INFO:root:Epoch 134, train loss: 0.5754 valid metrics: {'loss': 1.1084031909704208, 'accuracy': 0.609375, 'f1_scores': array([0.58823529, 0.66666667, 0.64864865, 0.8       , 0.52631579,
+       0.46511628, 0.66666667]), 'f1_score_macro': 0.6230927635204402}
+INFO:root:Wed Dec 14 15:44:30 2022, epoch 135
+INFO:root:Epoch 135, train loss: 0.5925 valid metrics: {'loss': 1.1422010213136673, 'accuracy': 0.6015625, 'f1_scores': array([0.55555556, 0.68421053, 0.64864865, 0.85714286, 0.54054054,
+       0.4       , 0.70588235]), 'f1_score_macro': 0.6274257830206525}
+INFO:root:Wed Dec 14 15:44:33 2022, epoch 136
+INFO:root:Epoch 136, train loss: 0.5687 valid metrics: {'loss': 1.163777157664299, 'accuracy': 0.640625, 'f1_scores': array([0.52830189, 0.75      , 0.6875    , 0.8       , 0.6875    ,
+       0.43137255, 0.88888889]), 'f1_score_macro': 0.6819376178144214}
+INFO:root:Wed Dec 14 15:44:36 2022, epoch 137
+INFO:root:Epoch 137, train loss: 0.5252 valid metrics: {'loss': 1.1203090026974678, 'accuracy': 0.65625, 'f1_scores': array([0.57692308, 0.73684211, 0.70588235, 0.8125    , 0.62857143,
+       0.5106383 , 0.77777778]), 'f1_score_macro': 0.6784478627641368}
+INFO:root:Wed Dec 14 15:44:38 2022, epoch 138
+INFO:root:Epoch 138, train loss: 0.5471 valid metrics: {'loss': 1.1201605200767517, 'accuracy': 0.625, 'f1_scores': array([0.51851852, 0.7       , 0.66666667, 0.82758621, 0.55555556,
+       0.5106383 , 0.85714286]), 'f1_score_macro': 0.6623011575217842}
+INFO:root:Wed Dec 14 15:44:41 2022, epoch 139
+INFO:root:Epoch 139, train loss: 0.5380 valid metrics: {'loss': 1.1825542002916336, 'accuracy': 0.5859375, 'f1_scores': array([0.55555556, 0.63157895, 0.57894737, 0.85714286, 0.52941176,
+       0.4       , 0.73684211]), 'f1_score_macro': 0.6127826569224181}
+INFO:root:Wed Dec 14 15:44:44 2022, epoch 140
+INFO:root:Epoch 140, train loss: 0.5315 valid metrics: {'loss': 1.1550668627023697, 'accuracy': 0.6171875, 'f1_scores': array([0.62962963, 0.68421053, 0.62857143, 0.85714286, 0.54054054,
+       0.44444444, 0.63157895]), 'f1_score_macro': 0.6308740534304444}
+INFO:root:Wed Dec 14 15:44:47 2022, epoch 141
+INFO:root:Epoch 141, train loss: 0.5383 valid metrics: {'loss': 1.1157171502709389, 'accuracy': 0.6484375, 'f1_scores': array([0.5862069 , 0.65      , 0.64864865, 0.82758621, 0.60606061,
+       0.52380952, 0.94117647]), 'f1_score_macro': 0.6833554789364699}
+INFO:root:Wed Dec 14 15:44:50 2022, epoch 142
+INFO:root:Epoch 142, train loss: 0.5495 valid metrics: {'loss': 1.205763354897499, 'accuracy': 0.59375, 'f1_scores': array([0.56      , 0.66666667, 0.56410256, 0.8       , 0.5625    ,
+       0.41666667, 0.76190476]), 'f1_score_macro': 0.6188343799058085}
+INFO:root:Wed Dec 14 15:44:53 2022, epoch 143
+INFO:root:Epoch 143, train loss: 0.5132 valid metrics: {'loss': 1.1844578012824059, 'accuracy': 0.625, 'f1_scores': array([0.55555556, 0.66666667, 0.6       , 0.82758621, 0.6       ,
+       0.47826087, 0.88888889]), 'f1_score_macro': 0.6595654553675544}
+INFO:root:Wed Dec 14 15:44:56 2022, epoch 144
+INFO:root:Epoch 144, train loss: 0.5377 valid metrics: {'loss': 1.1394502967596054, 'accuracy': 0.625, 'f1_scores': array([0.56      , 0.66666667, 0.63157895, 0.86666667, 0.58823529,
+       0.47826087, 0.73684211]), 'f1_score_macro': 0.6468929356639681}
+INFO:root:Wed Dec 14 15:44:59 2022, epoch 145
+INFO:root:Epoch 145, train loss: 0.5327 valid metrics: {'loss': 1.1475351378321648, 'accuracy': 0.5859375, 'f1_scores': array([0.57692308, 0.55555556, 0.55813953, 0.82758621, 0.54545455,
+       0.44444444, 0.77777778]), 'f1_score_macro': 0.6122687345622391}
+INFO:root:Wed Dec 14 15:45:01 2022, epoch 146
+INFO:root:Epoch 146, train loss: 0.5227 valid metrics: {'loss': 1.2358173057436943, 'accuracy': 0.5859375, 'f1_scores': array([0.5       , 0.68292683, 0.61538462, 0.82758621, 0.54545455,
+       0.40909091, 0.66666667]), 'f1_score_macro': 0.6067299675373687}
+INFO:root:Wed Dec 14 15:45:04 2022, epoch 147
+INFO:root:Epoch 147, train loss: 0.5363 valid metrics: {'loss': 1.1896755918860435, 'accuracy': 0.6171875, 'f1_scores': array([0.53846154, 0.65      , 0.66666667, 0.82758621, 0.61111111,
+       0.44444444, 0.77777778]), 'f1_score_macro': 0.6451496779082986}
+INFO:root:Wed Dec 14 15:45:07 2022, epoch 148
+INFO:root:Epoch 148, train loss: 0.5886 valid metrics: {'loss': 1.1848918423056602, 'accuracy': 0.6171875, 'f1_scores': array([0.59259259, 0.64864865, 0.53658537, 0.8125    , 0.6       ,
+       0.45454545, 0.88888889]), 'f1_score_macro': 0.6476801357898919}
+INFO:root:Wed Dec 14 15:45:10 2022, epoch 149
+INFO:root:Epoch 149, train loss: 0.5166 valid metrics: {'loss': 1.2218827679753304, 'accuracy': 0.5625, 'f1_scores': array([0.50980392, 0.63157895, 0.55      , 0.77419355, 0.52941176,
+       0.38297872, 0.8       ]), 'f1_score_macro': 0.5968524150620403}
+INFO:root:Wed Dec 14 15:45:13 2022, epoch 150
+INFO:root:Epoch 150, train loss: 0.5473 valid metrics: {'loss': 1.2123489379882812, 'accuracy': 0.6171875, 'f1_scores': array([0.55555556, 0.72222222, 0.58536585, 0.82758621, 0.53333333,
+       0.47826087, 0.8       ]), 'f1_score_macro': 0.6431891487473453}
+INFO:root:Wed Dec 14 15:45:16 2022, epoch 151
+INFO:root:Epoch 151, train loss: 0.5387 valid metrics: {'loss': 1.2214170545339584, 'accuracy': 0.59375, 'f1_scores': array([0.54901961, 0.62857143, 0.53333333, 0.86666667, 0.60606061,
+       0.42857143, 0.7       ]), 'f1_score_macro': 0.6160318672923715}
+INFO:root:Wed Dec 14 15:45:19 2022, epoch 152
+INFO:root:Epoch 152, train loss: 0.5595 valid metrics: {'loss': 1.1300716623663902, 'accuracy': 0.6015625, 'f1_scores': array([0.58181818, 0.71794872, 0.64705882, 0.83870968, 0.51428571,
+       0.37209302, 0.63157895]), 'f1_score_macro': 0.614784726517945}
+INFO:root:Wed Dec 14 15:45:22 2022, epoch 153
+INFO:root:Epoch 153, train loss: 0.5442 valid metrics: {'loss': 1.137346900999546, 'accuracy': 0.65625, 'f1_scores': array([0.57692308, 0.63157895, 0.68571429, 0.90322581, 0.66666667,
+       0.55319149, 0.7       ]), 'f1_score_macro': 0.6739000389265379}
+INFO:root:Wed Dec 14 15:45:24 2022, epoch 154
+INFO:root:Epoch 154, train loss: 0.5344 valid metrics: {'loss': 1.2254176512360573, 'accuracy': 0.6015625, 'f1_scores': array([0.51851852, 0.63414634, 0.64864865, 0.82758621, 0.60606061,
+       0.38095238, 0.8       ]), 'f1_score_macro': 0.6308446717914459}
+INFO:root:Wed Dec 14 15:45:27 2022, epoch 155
+INFO:root:Epoch 155, train loss: 0.5613 valid metrics: {'loss': 1.1953018009662628, 'accuracy': 0.609375, 'f1_scores': array([0.54545455, 0.64864865, 0.64864865, 0.82758621, 0.58823529,
+       0.40909091, 0.8       ]), 'f1_score_macro': 0.6382377504081359}
+INFO:root:Wed Dec 14 15:45:30 2022, epoch 156
+INFO:root:Epoch 156, train loss: 0.4931 valid metrics: {'loss': 1.1560432091355324, 'accuracy': 0.6484375, 'f1_scores': array([0.52830189, 0.68292683, 0.64705882, 0.86666667, 0.625     ,
+       0.53061224, 0.94117647]), 'f1_score_macro': 0.6888204173918597}
+INFO:root:Wed Dec 14 15:45:33 2022, epoch 157
+INFO:root:Epoch 157, train loss: 0.5207 valid metrics: {'loss': 1.2060631290078163, 'accuracy': 0.578125, 'f1_scores': array([0.49056604, 0.64864865, 0.58536585, 0.85714286, 0.52941176,
+       0.42553191, 0.75      ]), 'f1_score_macro': 0.6123810109693416}
+INFO:root:Wed Dec 14 15:45:36 2022, epoch 158
+INFO:root:Epoch 158, train loss: 0.5568 valid metrics: {'loss': 1.2035576701164246, 'accuracy': 0.6015625, 'f1_scores': array([0.53846154, 0.64864865, 0.66666667, 0.82758621, 0.5       ,
+       0.48      , 0.75      ]), 'f1_score_macro': 0.6301947229533437}
+INFO:root:Wed Dec 14 15:45:39 2022, epoch 159
+INFO:root:Epoch 159, train loss: 0.5082 valid metrics: {'loss': 1.1784450188279152, 'accuracy': 0.609375, 'f1_scores': array([0.60377358, 0.63157895, 0.66666667, 0.77419355, 0.53333333,
+       0.41666667, 0.8       ]), 'f1_score_macro': 0.6323161067611206}
+INFO:root:Wed Dec 14 15:45:41 2022, epoch 160
+INFO:root:Epoch 160, train loss: 0.5123 valid metrics: {'loss': 1.2490758523344994, 'accuracy': 0.6015625, 'f1_scores': array([0.54545455, 0.63157895, 0.66666667, 0.85714286, 0.54054054,
+       0.44444444, 0.70588235]), 'f1_score_macro': 0.6273871935083788}
+INFO:root:Wed Dec 14 15:45:44 2022, epoch 161
+INFO:root:Epoch 161, train loss: 0.4774 valid metrics: {'loss': 1.1838076934218407, 'accuracy': 0.6015625, 'f1_scores': array([0.60377358, 0.62857143, 0.52380952, 0.86666667, 0.60606061,
+       0.43478261, 0.70588235]), 'f1_score_macro': 0.6242209673786735}
+INFO:root:Wed Dec 14 15:45:47 2022, epoch 162
+INFO:root:Epoch 162, train loss: 0.5382 valid metrics: {'loss': 1.2848154157400131, 'accuracy': 0.609375, 'f1_scores': array([0.54901961, 0.66666667, 0.6       , 0.86666667, 0.59459459,
+       0.45454545, 0.66666667]), 'f1_score_macro': 0.6283085224261695}
+INFO:root:Wed Dec 14 15:45:50 2022, epoch 163
+INFO:root:Epoch 163, train loss: 0.5463 valid metrics: {'loss': 1.2403709813952446, 'accuracy': 0.5859375, 'f1_scores': array([0.48979592, 0.61538462, 0.63157895, 0.82758621, 0.60606061,
+       0.42553191, 0.66666667]), 'f1_score_macro': 0.6089435536625464}
+INFO:root:Wed Dec 14 15:45:53 2022, epoch 164
+INFO:root:Epoch 164, train loss: 0.4983 valid metrics: {'loss': 1.1340680420398712, 'accuracy': 0.6171875, 'f1_scores': array([0.61818182, 0.63157895, 0.61111111, 0.82758621, 0.64705882,
+       0.40909091, 0.7       ]), 'f1_score_macro': 0.6349439737397462}
+INFO:root:Wed Dec 14 15:45:56 2022, epoch 165
+INFO:root:Epoch 165, train loss: 0.5434 valid metrics: {'loss': 1.1780404672026634, 'accuracy': 0.6015625, 'f1_scores': array([0.58181818, 0.63157895, 0.57894737, 0.82758621, 0.48484848,
+       0.48888889, 0.77777778]), 'f1_score_macro': 0.6244922651456226}
+INFO:root:Wed Dec 14 15:45:59 2022, epoch 166
+INFO:root:Epoch 166, train loss: 0.5133 valid metrics: {'loss': 1.1485418230295181, 'accuracy': 0.640625, 'f1_scores': array([0.58181818, 0.68421053, 0.6       , 0.85714286, 0.625     ,
+       0.5       , 0.93333333]), 'f1_score_macro': 0.6830721283728803}
+INFO:root:Wed Dec 14 15:46:01 2022, epoch 167
+INFO:root:Epoch 167, train loss: 0.5378 valid metrics: {'loss': 1.1560550704598427, 'accuracy': 0.6171875, 'f1_scores': array([0.53846154, 0.68421053, 0.61538462, 0.86666667, 0.57142857,
+       0.42857143, 0.8       ]), 'f1_score_macro': 0.6435319066898015}
+INFO:root:Wed Dec 14 15:46:04 2022, epoch 168
+INFO:root:Epoch 168, train loss: 0.4678 valid metrics: {'loss': 1.2340412586927414, 'accuracy': 0.625, 'f1_scores': array([0.52830189, 0.63414634, 0.56410256, 0.86666667, 0.625     ,
+       0.5       , 0.94117647]), 'f1_score_macro': 0.6656277042304762}
+INFO:root:Wed Dec 14 15:46:07 2022, epoch 169
+INFO:root:Epoch 169, train loss: 0.5070 valid metrics: {'loss': 1.216113731265068, 'accuracy': 0.609375, 'f1_scores': array([0.56603774, 0.56410256, 0.70588235, 0.89655172, 0.60606061,
+       0.46808511, 0.57142857]), 'f1_score_macro': 0.6254498087004121}
+INFO:root:Wed Dec 14 15:46:10 2022, epoch 170
+INFO:root:Epoch 170, train loss: 0.5066 valid metrics: {'loss': 1.210180476307869, 'accuracy': 0.625, 'f1_scores': array([0.60377358, 0.66666667, 0.66666667, 0.86666667, 0.55555556,
+       0.46511628, 0.63157895]), 'f1_score_macro': 0.6365749095570578}
+INFO:root:Wed Dec 14 15:46:13 2022, epoch 171
+INFO:root:Epoch 171, train loss: 0.4904 valid metrics: {'loss': 1.1257904767990112, 'accuracy': 0.6171875, 'f1_scores': array([0.58823529, 0.59459459, 0.55      , 0.8       , 0.66666667,
+       0.46808511, 0.88888889]), 'f1_score_macro': 0.6509243643786823}
+INFO:root:Wed Dec 14 15:46:16 2022, epoch 172
+INFO:root:Epoch 172, train loss: 0.5123 valid metrics: {'loss': 1.173895999789238, 'accuracy': 0.6015625, 'f1_scores': array([0.53571429, 0.64864865, 0.64705882, 0.82758621, 0.54545455,
+       0.45833333, 0.73684211]), 'f1_score_macro': 0.6285197069771334}
+INFO:root:Wed Dec 14 15:46:19 2022, epoch 173
+INFO:root:Epoch 173, train loss: 0.4846 valid metrics: {'loss': 1.1938417479395866, 'accuracy': 0.625, 'f1_scores': array([0.55555556, 0.65      , 0.64864865, 0.85714286, 0.51612903,
+       0.5106383 , 0.84210526]), 'f1_score_macro': 0.6543170935193373}
+INFO:root:Wed Dec 14 15:46:22 2022, epoch 174
+INFO:root:Epoch 174, train loss: 0.4830 valid metrics: {'loss': 1.1674435213208199, 'accuracy': 0.640625, 'f1_scores': array([0.64285714, 0.68292683, 0.66666667, 0.82758621, 0.60606061,
+       0.45454545, 0.70588235]), 'f1_score_macro': 0.655217894176556}
+INFO:root:Wed Dec 14 15:46:24 2022, epoch 175
+INFO:root:Epoch 175, train loss: 0.4786 valid metrics: {'loss': 1.2700582444667816, 'accuracy': 0.578125, 'f1_scores': array([0.57142857, 0.59459459, 0.54545455, 0.82758621, 0.64516129,
+       0.38297872, 0.63157895]), 'f1_score_macro': 0.5998261256385028}
+INFO:root:Wed Dec 14 15:46:27 2022, epoch 176
+INFO:root:Epoch 176, train loss: 0.4871 valid metrics: {'loss': 1.176816202700138, 'accuracy': 0.6015625, 'f1_scores': array([0.5       , 0.55555556, 0.6       , 0.86666667, 0.625     ,
+       0.5       , 0.77777778]), 'f1_score_macro': 0.6321428571428571}
+INFO:root:Wed Dec 14 15:46:30 2022, epoch 177
+INFO:root:Epoch 177, train loss: 0.4672 valid metrics: {'loss': 1.1853555589914322, 'accuracy': 0.6015625, 'f1_scores': array([0.54901961, 0.64864865, 0.55      , 0.8       , 0.625     ,
+       0.41666667, 0.88888889]), 'f1_score_macro': 0.6397462588639059}
+INFO:root:Wed Dec 14 15:46:33 2022, epoch 178
+INFO:root:Epoch 178, train loss: 0.4881 valid metrics: {'loss': 1.1841721460223198, 'accuracy': 0.6015625, 'f1_scores': array([0.57142857, 0.62857143, 0.68571429, 0.82758621, 0.5       ,
+       0.45833333, 0.70588235]), 'f1_score_macro': 0.6253594541264782}
+INFO:root:Wed Dec 14 15:46:36 2022, epoch 179
+INFO:root:Epoch 179, train loss: 0.4610 valid metrics: {'loss': 1.1784998551011086, 'accuracy': 0.625, 'f1_scores': array([0.55555556, 0.68571429, 0.61538462, 0.82758621, 0.66666667,
+       0.46808511, 0.73684211]), 'f1_score_macro': 0.6508335059805445}
+INFO:root:Wed Dec 14 15:46:39 2022, epoch 180
+INFO:root:Epoch 180, train loss: 0.4915 valid metrics: {'loss': 1.1130808666348457, 'accuracy': 0.625, 'f1_scores': array([0.53846154, 0.63157895, 0.57142857, 0.90322581, 0.60606061,
+       0.5       , 0.875     ]), 'f1_score_macro': 0.66082220996725}
+INFO:root:Wed Dec 14 15:46:42 2022, epoch 181
+INFO:root:Epoch 181, train loss: 0.4759 valid metrics: {'loss': 1.1964345946907997, 'accuracy': 0.609375, 'f1_scores': array([0.59259259, 0.68421053, 0.62857143, 0.82758621, 0.47058824,
+       0.47826087, 0.7       ]), 'f1_score_macro': 0.625972837033671}
+INFO:root:Wed Dec 14 15:46:45 2022, epoch 182
+INFO:root:Epoch 182, train loss: 0.4770 valid metrics: {'loss': 1.171393945813179, 'accuracy': 0.6171875, 'f1_scores': array([0.55555556, 0.62857143, 0.55      , 0.84848485, 0.53333333,
+       0.5106383 , 0.94117647]), 'f1_score_macro': 0.6525371334865345}
+INFO:root:Wed Dec 14 15:46:47 2022, epoch 183
+INFO:root:Epoch 183, train loss: 0.4908 valid metrics: {'loss': 1.2195322066545486, 'accuracy': 0.59375, 'f1_scores': array([0.54545455, 0.59459459, 0.60606061, 0.77419355, 0.52941176,
+       0.46808511, 0.84210526]), 'f1_score_macro': 0.6228436326776571}
+INFO:root:Wed Dec 14 15:46:50 2022, epoch 184
+INFO:root:Epoch 184, train loss: 0.4715 valid metrics: {'loss': 1.236637532711029, 'accuracy': 0.59375, 'f1_scores': array([0.56603774, 0.59459459, 0.57894737, 0.83870968, 0.5       ,
+       0.47826087, 0.73684211]), 'f1_score_macro': 0.6133417644446334}
+INFO:root:Wed Dec 14 15:46:53 2022, epoch 185
+INFO:root:Epoch 185, train loss: 0.5047 valid metrics: {'loss': 1.1907070502638817, 'accuracy': 0.5703125, 'f1_scores': array([0.53846154, 0.55555556, 0.61538462, 0.82758621, 0.48484848,
+       0.41666667, 0.73684211]), 'f1_score_macro': 0.5964778818680815}
+INFO:root:Wed Dec 14 15:46:56 2022, epoch 186
+INFO:root:Epoch 186, train loss: 0.4899 valid metrics: {'loss': 1.273626558482647, 'accuracy': 0.5859375, 'f1_scores': array([0.50980392, 0.63157895, 0.58536585, 0.85714286, 0.52941176,
+       0.43478261, 0.77777778]), 'f1_score_macro': 0.6179805329882507}
+INFO:root:Wed Dec 14 15:46:59 2022, epoch 187
+INFO:root:Epoch 187, train loss: 0.5058 valid metrics: {'loss': 1.1782002300024033, 'accuracy': 0.609375, 'f1_scores': array([0.56      , 0.66666667, 0.66666667, 0.85714286, 0.59459459,
+       0.4       , 0.66666667]), 'f1_score_macro': 0.6302482073910645}
+INFO:root:Wed Dec 14 15:47:02 2022, epoch 188
+INFO:root:Epoch 188, train loss: 0.4945 valid metrics: {'loss': 1.1954836621880531, 'accuracy': 0.6328125, 'f1_scores': array([0.56603774, 0.66666667, 0.66666667, 0.8       , 0.66666667,
+       0.48      , 0.77777778]), 'f1_score_macro': 0.660545073375262}
+INFO:root:Wed Dec 14 15:47:04 2022, epoch 189
+INFO:root:Epoch 189, train loss: 0.4732 valid metrics: {'loss': 1.2018910571932793, 'accuracy': 0.6015625, 'f1_scores': array([0.56603774, 0.59459459, 0.6       , 0.8       , 0.54545455,
+       0.44444444, 0.88888889]), 'f1_score_macro': 0.6342028870330758}
+INFO:root:Wed Dec 14 15:47:07 2022, epoch 190
+INFO:root:Epoch 190, train loss: 0.4718 valid metrics: {'loss': 1.2967116832733154, 'accuracy': 0.5703125, 'f1_scores': array([0.44897959, 0.65      , 0.55      , 0.82758621, 0.5       ,
+       0.43478261, 0.875     ]), 'f1_score_macro': 0.6123354867755627}
+INFO:root:Wed Dec 14 15:47:10 2022, epoch 191
+INFO:root:Epoch 191, train loss: 0.4594 valid metrics: {'loss': 1.196390487253666, 'accuracy': 0.6171875, 'f1_scores': array([0.55555556, 0.70588235, 0.58536585, 0.82758621, 0.6875    ,
+       0.43478261, 0.7       ]), 'f1_score_macro': 0.6423817968210676}
+INFO:root:Wed Dec 14 15:47:13 2022, epoch 192
+INFO:root:Epoch 192, train loss: 0.4700 valid metrics: {'loss': 1.2537514567375183, 'accuracy': 0.609375, 'f1_scores': array([0.56603774, 0.68421053, 0.59459459, 0.89655172, 0.52941176,
+       0.48888889, 0.6       ]), 'f1_score_macro': 0.622813604927449}
+INFO:root:Wed Dec 14 15:47:16 2022, epoch 193
+INFO:root:Epoch 193, train loss: 0.4546 valid metrics: {'loss': 1.2117905467748642, 'accuracy': 0.625, 'f1_scores': array([0.5       , 0.64864865, 0.63157895, 0.82758621, 0.64705882,
+       0.5106383 , 0.84210526]), 'f1_score_macro': 0.6582308839247527}
+INFO:root:Wed Dec 14 15:47:19 2022, epoch 194
+INFO:root:Epoch 194, train loss: 0.4805 valid metrics: {'loss': 1.2153800651431084, 'accuracy': 0.5859375, 'f1_scores': array([0.52631579, 0.61111111, 0.6       , 0.85714286, 0.51612903,
+       0.41666667, 0.875     ]), 'f1_score_macro': 0.6289093509503404}
+INFO:root:Wed Dec 14 15:47:22 2022, epoch 195
+INFO:root:Epoch 195, train loss: 0.4547 valid metrics: {'loss': 1.1584779918193817, 'accuracy': 0.609375, 'f1_scores': array([0.50980392, 0.68421053, 0.6       , 0.82758621, 0.55555556,
+       0.46511628, 0.84210526]), 'f1_score_macro': 0.6406253932234552}
+INFO:root:Wed Dec 14 15:47:24 2022, epoch 196
+INFO:root:Epoch 196, train loss: 0.4563 valid metrics: {'loss': 1.2392322793602943, 'accuracy': 0.578125, 'f1_scores': array([0.48979592, 0.54054054, 0.57142857, 0.85714286, 0.58823529,
+       0.45833333, 0.77777778]), 'f1_score_macro': 0.6118934703868677}
+INFO:root:Wed Dec 14 15:47:27 2022, epoch 197
+INFO:root:Epoch 197, train loss: 0.4851 valid metrics: {'loss': 1.205224722623825, 'accuracy': 0.6171875, 'f1_scores': array([0.60714286, 0.63157895, 0.56410256, 0.78571429, 0.53333333,
+       0.5       , 0.94117647]), 'f1_score_macro': 0.6518640654642424}
+INFO:root:Wed Dec 14 15:47:30 2022, epoch 198
+INFO:root:Epoch 198, train loss: 0.4641 valid metrics: {'loss': 1.2061786279082298, 'accuracy': 0.6328125, 'f1_scores': array([0.56603774, 0.71794872, 0.66666667, 0.82758621, 0.64705882,
+       0.45454545, 0.66666667]), 'f1_score_macro': 0.649501467443218}
+INFO:root:Wed Dec 14 15:47:33 2022, epoch 199
+INFO:root:Epoch 199, train loss: 0.5027 valid metrics: {'loss': 1.226891502737999, 'accuracy': 0.59375, 'f1_scores': array([0.57142857, 0.54545455, 0.59459459, 0.86666667, 0.51612903,
+       0.48      , 0.73684211]), 'f1_score_macro': 0.6158736450950857}
