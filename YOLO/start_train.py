@@ -1,6 +1,6 @@
 import os
 
-os.environ['WANDB_API_KEY'] = '998acac7a46e43d3f64cc44b2a9c3db8fe240d7c'
+os.environ['WANDB_API_KEY'] = ''
 
 # os.chdir('./yolov5')
 os.chdir('./yolov7')
