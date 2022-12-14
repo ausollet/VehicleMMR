@@ -57,7 +57,6 @@ Top_Car_Brands = {'Suzuki': 0, 'Hyundai': 1, 'Tata': 2, 'Toyota': 3, 'Honda': 4,
 
 Top_Car_Brands_2 = {'Suzuki': 0, 'Hyundai': 1, 'Tata': 2, 'Toyota': 3, 'Honda': 4, 'Ford': 5, 'Volkswagen': 6}
 
-
 VCI_List = glob.glob('../cctv/vehicle_crop/*.jpg')
 # VCI_List = glob.glob('./Vehicle_Crop_Downloaded/*.jpeg')
 New_VCI_List = []
